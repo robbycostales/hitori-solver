@@ -1,0 +1,12 @@
+% hitori, nikoli sample problem 1 by mimic
+hitori
+easy
+8 8
+45683781
+11148672
+54763128
+74532816
+22271444
+87455263
+67855432
+33324617

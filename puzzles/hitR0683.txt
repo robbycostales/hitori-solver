@@ -1,0 +1,16 @@
+% hitori 683 by Otto Janko, http://www.janko.at/Raetsel/Hitori/683.a.htm
+hitori
+medium-
+12 12
+277284b9a5b1
+b58c53713a86
+c6955642c235
+c4659a3b3548
+2c42a7b55311
+b4b79552a94a
+739964c4b3a5
+ab7cc875b19a
+4821b336241c
+4a511c9c7b62
+a92a775c4482
+91b426974c5b

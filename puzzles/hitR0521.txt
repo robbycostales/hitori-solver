@@ -1,0 +1,12 @@
+% hitori 521 by Otto Janko, http://www.janko.at/Raetsel/Hitori/521.a.htm
+hitori
+medium-
+8 8
+24748524
+27161448
+13687835
+28525316
+61882724
+66413282
+45885227
+32534361

@@ -1,0 +1,12 @@
+% hitori 372 by Otto Janko, http://www.janko.at/Raetsel/Hitori/372.a.htm
+hitori
+easy+
+8 8
+84662731
+73178423
+48435812
+78858624
+75451871
+67283335
+57628147
+26117282

@@ -1,0 +1,12 @@
+% hitori 625 by Tom Collyer, http://www.janko.at/Raetsel/Hitori/625.a.htm
+hitori
+easy+
+8 8
+35746132
+47882546
+24867351
+52411788
+83211268
+67258213
+76314652
+11673421

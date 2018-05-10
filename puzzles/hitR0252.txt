@@ -1,0 +1,12 @@
+% hitori 252 by Otto Janko, http://www.janko.at/Raetsel/Hitori/252.a.htm
+hitori
+easy+
+8 8
+74156524
+76787132
+87655243
+78761324
+13624156
+22821455
+31242878
+65376864

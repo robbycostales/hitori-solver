@@ -1,0 +1,16 @@
+% hitori 598 by Grant Fikes, http://www.janko.at/Raetsel/Hitori/598.a.htm
+hitori
+hard-
+12 12
+4111a2229bc3
+82c49135b6a7
+53338444ac1b
+b82a9c17b3b5
+7555c6661939
+a4a815a3b7c6
+67774888392b
+9a46b352c198
+219b36cc4a7a
+c6a3b7c1c859
+198929ba7964
+c361ba79c24c

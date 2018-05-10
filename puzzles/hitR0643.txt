@@ -1,0 +1,14 @@
+% hitori 643 by Otto Janko, http://www.janko.at/Raetsel/Hitori/643.a.htm
+hitori
+easy+
+10 10
+82a7623743
+1594859357
+78aa376293
+a179418657
+84a5a2a826
+5227464638
+7965585427
+3532719a34
+291538598a
+83482a9599

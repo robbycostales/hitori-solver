@@ -1,0 +1,16 @@
+% hitori 290 by Otto Janko, http://www.janko.at/Raetsel/Hitori/290.a.htm
+hitori
+hard-
+12 12
+b854c38a1976
+3cc748289aaa
+a3164b857c92
+b272319683c9
+413837c23ab5
+629a16535587
+2a639151a843
+5b8b793225b4
+14679cb246b8
+9cab2c47c31c
+6962a5ac7621
+673ab714225c

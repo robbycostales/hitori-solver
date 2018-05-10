@@ -1,0 +1,12 @@
+% hitori 342 by Otto Janko, http://www.janko.at/Raetsel/Hitori/342.a.htm
+hitori
+medium-
+8 8
+55236324
+67485387
+68354436
+14518674
+42363458
+23621573
+56372215
+35847461

@@ -1,0 +1,14 @@
+% hitori 377 by Otto Janko, http://www.janko.at/Raetsel/Hitori/377.a.htm
+hitori
+medium-
+10 10
+8761a94865
+28944a5157
+4256878897
+2994133678
+182177a537
+32a5187971
+555a9a6824
+91348274a5
+7683a51869
+a387679244

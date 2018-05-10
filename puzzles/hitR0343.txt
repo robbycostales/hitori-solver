@@ -1,0 +1,19 @@
+% hitori 343 by Otto Janko, http://www.janko.at/Raetsel/Hitori/343.a.htm
+hitori
+hard-
+15 15
+632921ac47bb24f
+f9de516118a471b
+752afd36194feff
+872bc3645a2e826
+2292fbc1d41a577
+24b67e9dfda1bbc
+524ff69db376cea
+3e379118dda2b5a
+817865ff9be33c2
+d81867e73dcb4f9
+baa53179afdcd14
+cbc18427a252f22
+effc415b71f9368
+9fb48c2316875de
+79b1e8856dfa17c

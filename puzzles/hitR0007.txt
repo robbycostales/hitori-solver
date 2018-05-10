@@ -1,0 +1,11 @@
+% hitori 7 by Otto Janko, http://www.janko.at/Raetsel/Hitori/007.a.htm
+hitori
+easy+
+7 7
+7141513
+1263145
+3636451
+4711663
+5514167
+2516736
+4452171

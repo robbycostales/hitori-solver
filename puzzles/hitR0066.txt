@@ -1,0 +1,12 @@
+% hitori 66 by Otto Janko, http://www.janko.at/Raetsel/Hitori/066.a.htm
+hitori
+easy+
+8 8
+17561344
+25327644
+22746713
+46111275
+33642657
+33471526
+71253566
+47521135

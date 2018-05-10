@@ -1,0 +1,11 @@
+% hitori 6 by Otto Janko, http://www.janko.at/Raetsel/Hitori/006.a.htm
+hitori
+easy+
+7 7
+7725646
+4432116
+2336154
+4215366
+3643267
+6657412
+3164621

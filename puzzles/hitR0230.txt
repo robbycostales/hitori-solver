@@ -1,0 +1,19 @@
+% hitori 230 by Otto Janko, http://www.janko.at/Raetsel/Hitori/230.a.htm
+hitori
+hard
+15 15
+47dbe116759c5da
+bb9fc56521db734
+cde3e597149f2a7
+bbcc278749e6331
+9c47d6f3fda9b42
+85887b4fa993dcf
+167afcb3f939895
+64669d3c8a27e7f
+a9f8f3b4469e82d
+7a3a81ec521b4bc
+2bbead414f8d959
+3211e8aeb954f79
+8ea515d56b82cf6
+e114398ad7f56eb
+de56627b63c1c18

@@ -1,0 +1,16 @@
+% hitori 427 by Otto Janko, http://www.janko.at/Raetsel/Hitori/427.a.htm
+hitori
+medium-
+12 12
+b577b9236b47
+b8422137a965
+46cab21b9a79
+69c437981a2c
+5a389496c7ac
+1a89c72c35c1
+937336ba3c84
+47568a61bcc2
+24417c8b3736
+ab6248c4a372
+c89b43424357
+7cbb9563847a

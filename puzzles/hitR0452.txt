@@ -1,0 +1,12 @@
+% hitori 452 by Otto Janko, http://www.janko.at/Raetsel/Hitori/452.a.htm
+hitori
+medium-
+8 8
+14417421
+47281563
+56728411
+12273455
+77825346
+23256481
+32625734
+86142871

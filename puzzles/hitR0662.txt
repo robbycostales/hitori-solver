@@ -1,0 +1,12 @@
+% hitori 662 by Otto Janko, http://www.janko.at/Raetsel/Hitori/662.a.htm
+hitori
+easy+
+8 8
+21677425
+73725364
+36214276
+57437152
+75822371
+57271285
+28152726
+82846515

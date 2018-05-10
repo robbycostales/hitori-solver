@@ -1,0 +1,12 @@
+% hitori 371 by Otto Janko, http://www.janko.at/Raetsel/Hitori/371.a.htm
+hitori
+easy+
+8 8
+57554538
+51432162
+25483741
+41366375
+24373866
+86211354
+14855526
+62441583

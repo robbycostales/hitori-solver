@@ -1,0 +1,14 @@
+% hitori 433 by Otto Janko, http://www.janko.at/Raetsel/Hitori/433.a.htm
+hitori
+medium-
+10 10
+89a7631245
+33439a8225
+6a61637596
+41987243aa
+1432a24252
+969a842193
+2a1733548a
+758376a4a1
+6a731a399a
+a365296714

@@ -1,0 +1,10 @@
+% hitori 46 by Otto Janko, http://www.janko.at/Raetsel/Hitori/046.a.htm
+hitori
+easy+
+6 6
+561142
+624332
+512364
+426316
+151423
+132654

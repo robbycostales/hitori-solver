@@ -1,0 +1,12 @@
+% hitori 623 by Mokuani, http://www.janko.at/Raetsel/Hitori/623.a.htm
+hitori
+easy+
+8 8
+13762746
+16525387
+12235567
+64248551
+41273856
+25643418
+47413685
+38187428

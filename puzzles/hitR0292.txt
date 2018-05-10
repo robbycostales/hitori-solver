@@ -1,0 +1,12 @@
+% hitori 292 by Otto Janko, http://www.janko.at/Raetsel/Hitori/292.a.htm
+hitori
+medium-
+8 8
+76312457
+25337634
+51456425
+16646268
+53754861
+44485272
+68213531
+82458816

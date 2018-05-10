@@ -1,0 +1,12 @@
+% hitori 451 by Otto Janko, http://www.janko.at/Raetsel/Hitori/451.a.htm
+hitori
+medium-
+8 8
+17125664
+24446885
+18737264
+45273716
+72744561
+34518223
+65371872
+55687467

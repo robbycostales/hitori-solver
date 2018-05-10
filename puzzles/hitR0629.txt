@@ -1,0 +1,16 @@
+% hitori 629 by Thomas Snyder, http://www.janko.at/Raetsel/Hitori/629.a.htm
+hitori
+medium-
+12 12
+b3b57ca69129
+612195b15348
+82126aac6432
+6536887b934a
+48ca929a78b5
+5a78c11379ab
+74b6511a2a8c
+9256cb4bca79
+a87b46991245
+378515c45652
+187963626564
+a4412858b3c3

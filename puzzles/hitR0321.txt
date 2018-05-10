@@ -1,0 +1,12 @@
+% hitori 321 by Otto Janko, http://www.janko.at/Raetsel/Hitori/321.a.htm
+hitori
+easy+
+8 8
+82625386
+43857516
+56768122
+34113862
+12574132
+28241611
+57431278
+87152551

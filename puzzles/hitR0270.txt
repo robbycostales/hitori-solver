@@ -1,0 +1,16 @@
+% hitori 270 by Otto Janko, http://www.janko.at/Raetsel/Hitori/270.a.htm
+hitori
+medium
+12 12
+a685721a7b7c
+a2b487814935
+c97c659a2a83
+49b2512ca28b
+b91978a843c5
+83cbc432158a
+a783a3c4b462
+98562a97cc54
+7b2158639cb7
+1a2cb685b877
+68c351b349a9
+143a9b865298

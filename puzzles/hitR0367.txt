@@ -1,0 +1,14 @@
+% hitori 367 by Otto Janko, http://www.janko.at/Raetsel/Hitori/367.a.htm
+hitori
+medium-
+10 10
+4534a26176
+142785a663
+86917794a7
+2711994936
+3289165a2a
+7134395932
+994548521a
+49a8516688
+1812457695
+93632a8a4a

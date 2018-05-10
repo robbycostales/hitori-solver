@@ -1,0 +1,12 @@
+% hitori 10 by Otto Janko, http://www.janko.at/Raetsel/Hitori/010.a.htm
+hitori
+easy+
+8 8
+84653574
+65547831
+57255487
+86532544
+38148652
+53764222
+58776213
+11376468

@@ -1,0 +1,21 @@
+% hitori 232 by Otto Janko, http://www.janko.at/Raetsel/Hitori/232.a.htm
+hitori
+very hard
+17 17
+5bh8g2abh2e3e21b6
+g8e2c791fg63dgb3a
+1d84ad5h49eb5g3fe
+ad2h6a8d3h54e9ee7
+c9d63h2fc7ad816eg
+7b39d4g38h2674f91
+af412e3bg63fhaed5
+32gfe317fb3dah948
+6abb5859e67b43cgh
+h9ce9657b34gfcda2
+ee52h6fc491817653
+gha3b9641chg27549
+f36c754ef8d2gba55
+c5eg73e5dfaa647h9
+2addccb37ag37528e
+dc7a9g34241e9fhab
+h73f4dhga95136cbf

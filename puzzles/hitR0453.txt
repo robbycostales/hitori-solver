@@ -1,0 +1,14 @@
+% hitori 453 by Otto Janko, http://www.janko.at/Raetsel/Hitori/453.a.htm
+hitori
+medium-
+10 10
+52652a8432
+37856a99a2
+5312214856
+a53592698a
+92a8141753
+519174224a
+8264197335
+7614493268
+684127522a
+16195aa114

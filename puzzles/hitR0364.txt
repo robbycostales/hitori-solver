@@ -1,0 +1,12 @@
+% hitori 364 by Otto Janko, http://www.janko.at/Raetsel/Hitori/364.a.htm
+hitori
+medium-
+8 8
+64342166
+51663878
+86546367
+43175225
+12278645
+72148563
+62734252
+47421288

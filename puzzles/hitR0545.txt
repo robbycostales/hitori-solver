@@ -1,0 +1,13 @@
+% hitori 545 by Otto Janko, http://www.janko.at/Raetsel/Hitori/545.a.htm
+hitori
+easy+
+9 9
+443986895
+145284359
+315694772
+619741137
+728179698
+892115563
+577433196
+753861483
+661635246

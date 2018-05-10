@@ -1,0 +1,10 @@
+% hitori 160 by Otto Janko, http://www.janko.at/Raetsel/Hitori/160.a.htm
+hitori
+easy
+6 6
+132654
+165251
+415326
+355433
+324664
+253615

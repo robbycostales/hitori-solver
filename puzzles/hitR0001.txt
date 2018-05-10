@@ -1,0 +1,8 @@
+% hitori 1 by Otto Janko, http://www.janko.at/Raetsel/Hitori/001.a.htm
+hitori
+very easy
+4 4
+3314
+4322
+1342
+3432

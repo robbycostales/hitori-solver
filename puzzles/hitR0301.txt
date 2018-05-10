@@ -1,0 +1,12 @@
+% hitori 301 by Otto Janko, http://www.janko.at/Raetsel/Hitori/301.a.htm
+hitori
+medium-
+8 8
+34712531
+21363345
+28587164
+36681415
+65814271
+83841268
+15453326
+87125165

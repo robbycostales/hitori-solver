@@ -1,0 +1,14 @@
+% hitori 218 by Otto Janko, http://www.janko.at/Raetsel/Hitori/218.a.htm
+hitori
+medium-
+10 10
+9182754aa8
+64a59a7671
+129487682a
+6846351a85
+86879a9953
+795a437184
+a981765a19
+8a715132a7
+3116a98742
+5798919984

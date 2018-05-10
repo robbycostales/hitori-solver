@@ -1,0 +1,12 @@
+% hitori 381 by Otto Janko, http://www.janko.at/Raetsel/Hitori/381.a.htm
+hitori
+easy+
+8 8
+38386521
+15687243
+81854324
+76471782
+32575624
+43524715
+26711468
+64285872

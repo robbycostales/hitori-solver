@@ -1,0 +1,16 @@
+% hitori 617 by Otto Janko, http://www.janko.at/Raetsel/Hitori/617.a.htm
+hitori
+unknown
+12 12
+9a634314c454
+2638512539bc
+a15964ca8414
+65942c919528
+bb1a5382c6cb
+5124b891a7a4
+bac71a43c58a
+ac3924ab7b9b
+2a8b8a495447
+c89a3c74a2ac
+3942872a1b6b
+b4cc45b52374

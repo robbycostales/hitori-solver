@@ -1,0 +1,11 @@
+% hitori 53 by Otto Janko, http://www.janko.at/Raetsel/Hitori/053.a.htm
+hitori
+easy+
+7 7
+5627237
+3216275
+3521771
+2671361
+2774546
+4362217
+4123426

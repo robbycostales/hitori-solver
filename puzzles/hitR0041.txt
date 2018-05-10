@@ -1,0 +1,10 @@
+% hitori 41 by Otto Janko, http://www.janko.at/Raetsel/Hitori/041.a.htm
+hitori
+easy+
+6 6
+211316
+154262
+646235
+316153
+522643
+633515

@@ -1,0 +1,16 @@
+% hitori 666 by Otto Janko, http://www.janko.at/Raetsel/Hitori/666.a.htm
+hitori
+medium-
+12 12
+2a3893822c14
+41bc316897ca
+ac27c2a63c97
+47a84a21a63c
+c87633424187
+73c15b3aab41
+117cc1b399a6
+62897a46c311
+1923c5a43bc2
+2c186c4a8419
+1b241ac5aa8a
+3498282c1c6b

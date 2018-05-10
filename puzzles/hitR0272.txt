@@ -1,0 +1,12 @@
+% hitori 272 by Otto Janko, http://www.janko.at/Raetsel/Hitori/272.a.htm
+hitori
+easy+
+8 8
+74127571
+53276431
+57356238
+41327782
+58614366
+15823747
+83747135
+12138757

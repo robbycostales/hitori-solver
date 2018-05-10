@@ -1,0 +1,11 @@
+% hitori 108 by Otto Janko, http://www.janko.at/Raetsel/Hitori/108.a.htm
+hitori
+easy+
+7 7
+2211731
+7463361
+2156572
+2741163
+6375445
+2537216
+1334353

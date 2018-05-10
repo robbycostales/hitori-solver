@@ -1,0 +1,10 @@
+% hitori 21 by Otto Janko, http://www.janko.at/Raetsel/Hitori/021.a.htm
+hitori
+medium-
+6 6
+534564
+413625
+365124
+124156
+612453
+166434

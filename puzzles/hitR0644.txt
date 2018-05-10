@@ -1,0 +1,14 @@
+% hitori 644 by Otto Janko, http://www.janko.at/Raetsel/Hitori/644.a.htm
+hitori
+easy+
+10 10
+86845a37a7
+9a33141835
+5252a58796
+392821757a
+16a6981631
+8325416519
+11a6a5a254
+5845162875
+37324a3451
+a529724369

@@ -1,0 +1,19 @@
+% hitori 346 by Otto Janko, http://www.janko.at/Raetsel/Hitori/346.a.htm
+hitori
+medium
+15 15
+53fc4fa8e676f81
+a95e2ae2afd3613
+b1fb87619a25c1d
+d761731a2e834f7
+219ba75f2b6db98
+91244d8171cb5de
+6897df1ec7f3b25
+b2e21cf4a433b61
+2f495adc3e1ae87
+26cde193da5467f
+fd82ab75166e9c6
+f54928ecf7ba3dc
+e41f35f383c9d82
+a293f47bd5e2d86
+4e7931486b2fa57

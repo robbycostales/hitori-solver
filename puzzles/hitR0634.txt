@@ -1,0 +1,14 @@
+% hitori 634 by Otto Janko, http://www.janko.at/Raetsel/Hitori/634.a.htm
+hitori
+easy+
+10 10
+1861a6a438
+6485923527
+18498a297a
+a3284972a1
+963a5a691a
+a725a416a1
+467925a598
+5762769a8a
+3a37528935
+99a517a853

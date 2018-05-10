@@ -1,0 +1,14 @@
+% hitori 561 by Otto Janko, http://www.janko.at/Raetsel/Hitori/561.a.htm
+hitori
+easy+
+10 10
+9789a1a631
+5872137993
+61a429a567
+9a98854366
+8636a52458
+4336829241
+69751a9158
+54a3695a96
+459736123a
+82aa332875

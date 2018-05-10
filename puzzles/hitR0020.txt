@@ -1,0 +1,12 @@
+% hitori 20 by Otto Janko, http://www.janko.at/Raetsel/Hitori/020.a.htm
+hitori
+easy+
+8 8
+87846314
+38784168
+82154447
+81236857
+76241643
+65472587
+68563521
+24678137

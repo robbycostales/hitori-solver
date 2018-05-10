@@ -1,0 +1,16 @@
+% hitori 173 by Otto Janko, http://www.janko.at/Raetsel/Hitori/173.a.htm
+hitori
+medium-
+12 12
+caa41b315971
+4ba5896c346c
+13a23c8bb6a4
+52c44496b831
+447a32b5b1bc
+372ba5c61948
+992897645c2b
+429bbba87385
+7261935865b6
+b23a5348972a
+a51c64b28789
+255a7b134398

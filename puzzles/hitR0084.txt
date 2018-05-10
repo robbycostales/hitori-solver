@@ -1,0 +1,12 @@
+% hitori 84 by Toshio Karino, http://www.janko.at/Raetsel/Hitori/084.a.htm
+hitori
+medium-
+8 8
+57125443
+43127563
+55342178
+66273331
+32569186
+21346252
+98414623
+75658514

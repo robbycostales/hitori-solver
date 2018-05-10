@@ -1,0 +1,16 @@
+% hitori 247 by Otto Janko, http://www.janko.at/Raetsel/Hitori/247.a.htm
+hitori
+hard-
+12 12
+721c33576848
+1b237a43a86b
+93b61cc1a5a4
+374336b25696
+8c85a21b4427
+289a4b9681c3
+a314a7622a85
+7a8761945b23
+56a264797a1c
+4ac7813711b3
+b4a9a87c5231
+725819184c26

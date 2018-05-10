@@ -1,0 +1,14 @@
+% hitori 482 by Otto Janko, http://www.janko.at/Raetsel/Hitori/482.a.htm
+hitori
+medium-
+10 10
+8a945a2781
+525a249373
+571896a626
+79a3967834
+a181326559
+28a16635a8
+48574352a6
+aa71491982
+36a5119941
+a3521a8a97

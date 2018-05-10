@@ -1,0 +1,13 @@
+% hitori 544 by Otto Janko, http://www.janko.at/Raetsel/Hitori/544.a.htm
+hitori
+medium-
+9 9
+126877439
+398549695
+845283316
+956233764
+241439974
+868354921
+437393287
+477126558
+392611873

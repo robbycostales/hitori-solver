@@ -1,0 +1,12 @@
+% hitori 333 by Otto Janko, http://www.janko.at/Raetsel/Hitori/333.a.htm
+hitori
+easy+
+8 8
+31782165
+56863424
+82522146
+58764832
+23426873
+75732224
+42675112
+13158751

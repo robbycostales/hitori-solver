@@ -1,0 +1,19 @@
+% hitori 227 by Otto Janko, http://www.janko.at/Raetsel/Hitori/227.a.htm
+hitori
+hard-
+15 15
+263bdea4c76d1fa
+c71d8654d3a51af
+6addff7c11259e3
+1be23c8f5693877
+326694855aedb1c
+c9ca51273e6f289
+7f436f29b1acae5
+ce544a21cfc869b
+45e6eb9ef1faadf
+73ac2d7e4e16742
+1819426fac3793e
+e497c8f8523ca64
+5428a3ee6b14f61
+6183c9c6a5fe4b7
+9cd83818e4bad16

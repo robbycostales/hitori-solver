@@ -1,0 +1,12 @@
+% hitori 551 by Otto Janko, http://www.janko.at/Raetsel/Hitori/551.a.htm
+hitori
+easy+
+8 8
+46623348
+32746658
+61764771
+24632715
+37465364
+68557831
+75316884
+45542686

@@ -1,0 +1,16 @@
+% hitori 508 by Otto Janko, http://www.janko.at/Raetsel/Hitori/508.a.htm
+hitori
+medium
+12 12
+574983196772
+7a228b25c339
+632a8c54419b
+a9176943b942
+969c78bb2574
+bc69168a5337
+28b17a7994c4
+478b9b3213ba
+1cab35264253
+88cc24ab3968
+4536312491ac
+2199a7c73635

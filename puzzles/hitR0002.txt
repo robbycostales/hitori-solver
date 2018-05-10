@@ -1,0 +1,9 @@
+% hitori 2 by Otto Janko, http://www.janko.at/Raetsel/Hitori/002.a.htm
+hitori
+easy
+5 5
+34552
+32354
+21455
+23141
+25232

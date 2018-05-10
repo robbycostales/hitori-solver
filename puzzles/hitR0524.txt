@@ -1,0 +1,14 @@
+% hitori 524 by Otto Janko, http://www.janko.at/Raetsel/Hitori/524.a.htm
+hitori
+medium-
+10 10
+5a41765494
+894151a613
+7a1a6352a9
+9678a21647
+253a98376a
+a1a7a49874
+6989152174
+529a848136
+43121774a8
+1454293687

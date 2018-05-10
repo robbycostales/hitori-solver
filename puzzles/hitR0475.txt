@@ -1,0 +1,16 @@
+% hitori 475 by Otto Janko, http://www.janko.at/Raetsel/Hitori/475.a.htm
+hitori
+medium
+12 12
+b3c4a9a22562
+184b54988c7a
+716945368ca4
+65752ccca359
+b8123acb95c2
+423c87ba2995
+ac37a2c5361b
+c68ca7174a37
+94cac32347b6
+5ba38b141b98
+9a6cbc8b5257
+cb617b596343

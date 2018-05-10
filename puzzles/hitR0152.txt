@@ -1,0 +1,9 @@
+% hitori 152 by Otto Janko, http://www.janko.at/Raetsel/Hitori/152.a.htm
+hitori
+very easy
+5 5
+14241
+12153
+15434
+53212
+42321

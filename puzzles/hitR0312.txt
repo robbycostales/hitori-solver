@@ -1,0 +1,19 @@
+% hitori 312 by Otto Janko, http://www.janko.at/Raetsel/Hitori/312.a.htm
+hitori
+hard-
+15 15
+c4ec3f9bed7197d
+fc8a1983d2eb657
+97bf2dea9174c98
+ae2cb9f311833d9
+8714f7fe9bc2d44
+b3e7c26fca59189
+31725375cbd6e6a
+79698b46ac9ef13
+1da442c9653274c
+dbcfc4311957d28
+5d3e92dbb6ca4e4
+d6d37f4c75bf9f1
+e975a5c7f42286b
+cdf9dac6f815bce
+259bfe137b6f8af

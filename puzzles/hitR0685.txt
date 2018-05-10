@@ -1,0 +1,16 @@
+% hitori 685 by Otto Janko, http://www.janko.at/Raetsel/Hitori/685.a.htm
+hitori
+medium-
+12 12
+94686a24129c
+42864771cbc5
+9b4b513c641a
+6169a971354b
+1a52b96329a6
+3a598154b972
+131a64bb3268
+56441b8b9ac8
+69a34bb77149
+5b8138362b54
+8935c6497cb4
+8517c4199486

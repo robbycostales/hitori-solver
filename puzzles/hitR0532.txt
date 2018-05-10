@@ -1,0 +1,12 @@
+% hitori 532 by Otto Janko, http://www.janko.at/Raetsel/Hitori/532.a.htm
+hitori
+easy+
+8 8
+53276721
+17762845
+54212763
+82617423
+61352244
+22433386
+87135622
+42583537

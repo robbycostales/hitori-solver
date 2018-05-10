@@ -1,0 +1,16 @@
+% hitori 309 by Otto Janko, http://www.janko.at/Raetsel/Hitori/309.a.htm
+hitori
+medium
+12 12
+b35ab8459c7a
+52b113a7c626
+bc4118516279
+82254736b931
+872c883ba9a5
+15cb8a287c42
+a23876c2a594
+c6c5217254a8
+769ca6655b23
+6864657a26ca
+6b6359238a14
+c1471284131b

@@ -1,0 +1,19 @@
+% hitori 311 by Otto Janko, http://www.janko.at/Raetsel/Hitori/311.a.htm
+hitori
+hard-
+15 15
+cfd8b6a9e2785a1
+654df4a63817e39
+a9545d923e75b88
+1b563bd8a3c924e
+14c1584faab6657
+21ec6a718d854b7
+76e21b4a538f256
+3722df39425e196
+38ab91b2657493c
+7ef9536e19acf7d
+dcda462761fbfe5
+ad6182de599a784
+8a1e7abaf4fdf62
+f3793f8476dea15
+e635a49d57b15d9

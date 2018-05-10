@@ -1,0 +1,19 @@
+% hitori 489 by Otto Janko, http://www.janko.at/Raetsel/Hitori/489.a.htm
+hitori
+medium
+15 15
+1dfceb286a12a37
+3c8db789a7df672
+5797afceb25d324
+61679ad62e3354e
+321b36678dfe94c
+e43b8326a9ac5cf
+d925f4917bc687e
+1469d5abad68ef5
+266d4ceedb2145a
+264a7efcc832d16
+a5d213b7162c478
+be946255dfb1177
+5caedc7293d4561
+f3e2c79a145b294
+8aec3919ec45486

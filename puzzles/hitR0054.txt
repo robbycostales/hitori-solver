@@ -1,0 +1,16 @@
+% hitori 54 by Otto Janko, http://www.janko.at/Raetsel/Hitori/054.a.htm
+hitori
+medium
+12 12
+54b73c426987
+82cc89145975
+b5c542598a51
+13ca978842bc
+6b21175a8cc3
+38a41924c858
+a61326b5b749
+a736c13c2544
+a84271c11135
+8c854b419329
+9b58aa76b4c3
+1944588b386a

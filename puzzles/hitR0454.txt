@@ -1,0 +1,14 @@
+% hitori 454 by Otto Janko, http://www.janko.at/Raetsel/Hitori/454.a.htm
+hitori
+medium-
+10 10
+1534a42821
+9495632319
+68a1a59747
+9349797612
+2aa9328751
+32911a7568
+aa62521887
+565a687914
+99194a523a
+597481a233

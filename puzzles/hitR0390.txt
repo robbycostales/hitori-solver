@@ -1,0 +1,16 @@
+% hitori 390 by Otto Janko, http://www.janko.at/Raetsel/Hitori/390.a.htm
+hitori
+medium
+12 12
+5481aaa93547
+6a9ab72358c4
+76c51499bcc8
+9c6811129791
+cbb92854a813
+4543a6479c29
+115a53c84246
+494352bb8ba1
+b512743c268a
+934b3c661959
+212c44a793c5
+27aa6518493b

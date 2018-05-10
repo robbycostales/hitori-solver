@@ -1,0 +1,19 @@
+% hitori 667 by Otto Janko, http://www.janko.at/Raetsel/Hitori/667.a.htm
+hitori
+medium
+15 15
+852c9c8b1587f6d
+47b5dfba792fae7
+8f6722a9e2169a8
+a3ff81374c69db2
+99432a7bb8ad9a8
+7fb71ef3ab47856
+fc9d6c3981b82ee
+a85ceb9875a91f5
+92c8aadcfe21d3b
+d8f2b5b83876e96
+a638ab828bf84a5
+89961f91da14bc7
+24d57316a591a86
+12c4196e89da123
+6a3b3df42f757b9

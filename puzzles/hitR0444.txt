@@ -1,0 +1,14 @@
+% hitori 444 by Otto Janko, http://www.janko.at/Raetsel/Hitori/444.a.htm
+hitori
+medium-
+10 10
+19132a6873
+81311a5a67
+7824267599
+aa5a781488
+2455687932
+9579384186
+66925379a4
+317a898746
+236395328a
+46a9373652

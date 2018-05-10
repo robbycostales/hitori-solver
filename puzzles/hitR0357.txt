@@ -1,0 +1,21 @@
+% hitori 357 by Otto Janko, http://www.janko.at/Raetsel/Hitori/357.a.htm
+hitori
+hard
+17 17
+g6a8h6da958fc1bc3
+6af3dg7gec4b29d12
+9dga675f41cegh634
+4bc63f695e1ah7ae2
+c42dgbhh9aeb3f466
+928c29bgc4864345e
+2a5b9g6e4ggdhaf8c
+3913fhaca6b4a8dgd
+hg9dc3ghfbhc6b7a9
+bh7f25e4h4f9863ca
+da7ea684h875agg93
+b8gh5bcb69g24b1bf
+f56gh238aed71c98h
+13f9422711ace56f6
+1ea2cd418f736bh9g
+hc4h7ee63dc1a98b9
+5fb4eeb3c36a7d1hf

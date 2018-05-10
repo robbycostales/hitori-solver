@@ -1,0 +1,12 @@
+% hitori 605 by Grant Fikes, http://www.janko.at/Raetsel/Hitori/605.a.htm
+hitori
+unknown
+8 8
+12345678
+12856734
+28776356
+86774531
+35625148
+45412467
+65147822
+71538622

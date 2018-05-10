@@ -1,0 +1,12 @@
+% hitori 402 by Otto Janko, http://www.janko.at/Raetsel/Hitori/402.a.htm
+hitori
+medium-
+8 8
+51885654
+82376845
+48235254
+65257818
+76221843
+65488127
+23658376
+34613531

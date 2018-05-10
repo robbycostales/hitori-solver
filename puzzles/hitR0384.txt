@@ -1,0 +1,14 @@
+% hitori 384 by Otto Janko, http://www.janko.at/Raetsel/Hitori/384.a.htm
+hitori
+medium-
+10 10
+3281972256
+5937424468
+92a1537614
+23164aa781
+842983a616
+a444818578
+98243791aa
+761a145932
+15996737a7
+2958193a4a

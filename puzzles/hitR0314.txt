@@ -1,0 +1,19 @@
+% hitori 314 by Otto Janko, http://www.janko.at/Raetsel/Hitori/314.a.htm
+hitori
+hard-
+15 15
+2976b38bc57ae41
+c35d82cf18e68b4
+3eaed264afcbf92
+8792953df3af48f
+8ae4fad9b15395a
+9cb3bd65aa24618
+3f1c68a359f2445
+7621794318f5a6d
+f4c88a6ed61325b
+268f5e5aabb1f28
+1abc247c396fde5
+5b674c5284ed8a9
+aa3956f52c88b18
+69d145bcf27863e
+d5358f214a19c71

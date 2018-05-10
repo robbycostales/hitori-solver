@@ -1,0 +1,12 @@
+% hitori 302 by Otto Janko, http://www.janko.at/Raetsel/Hitori/302.a.htm
+hitori
+easy+
+8 8
+26186754
+65357255
+23271886
+72546822
+45853871
+51611427
+28765646
+84152313

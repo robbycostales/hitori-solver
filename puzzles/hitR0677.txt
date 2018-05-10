@@ -1,0 +1,19 @@
+% hitori 677 by Otto Janko, http://www.janko.at/Raetsel/Hitori/677.a.htm
+hitori
+medium
+15 15
+c219636575421ea
+d6f28f4381ecebc
+ac772f84c66dd48
+b22866377fe5a1d
+2192e8754dd1673
+e72655d281981fc
+843a3d5ed27bc45
+7a687ebffe68525
+64beb7c15e2d3cf
+7841a28bb6daf1e
+4c63ee56f74f588
+b1bcdd2f348e356
+fa5746f2589a964
+38ae45c3e9fc274
+294437fbd9a7d62

@@ -1,0 +1,12 @@
+% hitori 351 by Otto Janko, http://www.janko.at/Raetsel/Hitori/351.a.htm
+hitori
+medium-
+8 8
+44133564
+21343785
+17456553
+33865451
+54828633
+77364128
+62787614
+38712836

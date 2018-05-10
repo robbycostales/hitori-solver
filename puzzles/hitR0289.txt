@@ -1,0 +1,16 @@
+% hitori 289 by Otto Janko, http://www.janko.at/Raetsel/Hitori/289.a.htm
+hitori
+medium
+12 12
+156a9a7bac8a
+849252a5b1c3
+7cb5a8c3a7c2
+a51a7468429b
+96334356183c
+a459ab362531
+ca7226313b5c
+b48ac42c6474
+828b85c7c968
+5ba21c867929
+494837baa6b5
+213268bc9a4c

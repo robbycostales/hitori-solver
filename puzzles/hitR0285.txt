@@ -1,0 +1,14 @@
+% hitori 285 by Otto Janko, http://www.janko.at/Raetsel/Hitori/285.a.htm
+hitori
+medium
+10 10
+26aa59a733
+62123a7384
+726a1aa853
+9475873292
+39a6748581
+9828a66659
+a784768918
+985768182a
+4559827a87
+8993284675

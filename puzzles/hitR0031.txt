@@ -1,0 +1,11 @@
+% hitori 31 by Otto Janko, http://www.janko.at/Raetsel/Hitori/031.a.htm
+hitori
+medium-
+7 7
+3644551
+4563217
+2257613
+1221434
+3731452
+5413765
+5145724

@@ -1,0 +1,14 @@
+% hitori 385 by Otto Janko, http://www.janko.at/Raetsel/Hitori/385.a.htm
+hitori
+medium-
+10 10
+216a318912
+412185976a
+32a7a64186
+7314a45726
+1785896436
+5972716448
+687919a245
+97189426a8
+a292644547
+1836473a91

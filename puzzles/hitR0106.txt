@@ -1,0 +1,11 @@
+% hitori 106 by Otto Janko, http://www.janko.at/Raetsel/Hitori/106.a.htm
+hitori
+easy+
+7 7
+3245217
+1647452
+7331654
+3754566
+6352221
+2476735
+6322642

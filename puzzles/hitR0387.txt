@@ -1,0 +1,16 @@
+% hitori 387 by Otto Janko, http://www.janko.at/Raetsel/Hitori/387.a.htm
+hitori
+hard
+12 12
+a5a9cb744682
+8a2317cb6cc3
+b41a9ac2a735
+a3c172191b43
+645139ba8827
+5b678461c349
+c243b6a79b71
+268c9374151a
+c81949257161
+5642349c3acb
+4a7a5c66b198
+571b628ac2c3

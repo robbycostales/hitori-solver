@@ -1,0 +1,14 @@
+% hitori 277 by Otto Janko, http://www.janko.at/Raetsel/Hitori/277.a.htm
+hitori
+medium-
+10 10
+a51a751476
+4352a28719
+a45598a47a
+5982264641
+269147a985
+8134592447
+8296993aa4
+8847125237
+3794a661a2
+9a653172aa

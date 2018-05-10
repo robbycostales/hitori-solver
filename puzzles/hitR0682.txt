@@ -1,0 +1,14 @@
+% hitori 682 by Otto Janko, http://www.janko.at/Raetsel/Hitori/682.a.htm
+hitori
+easy+
+10 10
+414a35a975
+2975293614
+743a52a482
+46894a9832
+1824438291
+87a2916246
+1822574851
+2381729a95
+7a44196a27
+92577644a6

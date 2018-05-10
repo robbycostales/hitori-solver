@@ -1,0 +1,12 @@
+% hitori 622 by Mokuani, http://www.janko.at/Raetsel/Hitori/622.a.htm
+hitori
+easy+
+8 8
+12857234
+86214543
+73231763
+11168782
+23745718
+48626177
+45348277
+18676354

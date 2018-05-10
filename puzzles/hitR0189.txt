@@ -1,0 +1,12 @@
+% hitori 189 by Otto Janko, http://www.janko.at/Raetsel/Hitori/189.a.htm
+hitori
+easy+
+8 8
+58664727
+21365783
+44348757
+17786544
+63243611
+42713886
+56731648
+16842174

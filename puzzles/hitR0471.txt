@@ -1,0 +1,14 @@
+% hitori 471 by Otto Janko, http://www.janko.at/Raetsel/Hitori/471.a.htm
+hitori
+medium-
+10 10
+1a53599269
+6591215887
+5921a87aa6
+369791a314
+a64a397756
+34a9772538
+4295821293
+7986a38955
+988a826471
+a361158444

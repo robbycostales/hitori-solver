@@ -1,0 +1,14 @@
+% hitori 514 by Otto Janko, http://www.janko.at/Raetsel/Hitori/514.a.htm
+hitori
+medium-
+10 10
+9124348656
+1396157a71
+4865789225
+28272a1391
+36342aa537
+39598771a9
+57a2a14639
+228555762a
+6aa1a39782
+1979625453

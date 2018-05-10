@@ -1,0 +1,16 @@
+% hitori 507 by Otto Janko, http://www.janko.at/Raetsel/Hitori/507.a.htm
+hitori
+medium
+12 12
+75cb684a4291
+9548c28758bc
+737567ba4918
+a66c9b343872
+22a463216b39
+54593c26a68a
+5851b1c23364
+8b52a9561c5a
+162a869b3c6a
+5136a5abbc2c
+4a852a89a7a3
+c2984c157a3c

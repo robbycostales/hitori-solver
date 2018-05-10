@@ -1,0 +1,12 @@
+% hitori 324 by Otto Janko, http://www.janko.at/Raetsel/Hitori/324.a.htm
+hitori
+easy+
+8 8
+85148525
+78516231
+55218465
+63211245
+54376214
+32784876
+36723154
+54663877

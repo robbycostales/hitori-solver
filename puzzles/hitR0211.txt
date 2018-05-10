@@ -1,0 +1,14 @@
+% hitori 211 by Otto Janko, http://www.janko.at/Raetsel/Hitori/211.a.htm
+hitori
+medium-
+10 10
+8257844139
+419aa81553
+914a766628
+78224a2792
+136775894a
+254915a492
+227aa62351
+79231148a6
+8a34623937
+58aa312682

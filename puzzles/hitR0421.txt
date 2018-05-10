@@ -1,0 +1,12 @@
+% hitori 421 by Otto Janko, http://www.janko.at/Raetsel/Hitori/421.a.htm
+hitori
+easy+
+8 8
+46275474
+47313486
+27366887
+14625758
+62761375
+32567518
+73186243
+51352564

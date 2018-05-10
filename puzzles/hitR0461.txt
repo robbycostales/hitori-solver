@@ -1,0 +1,12 @@
+% hitori 461 by Otto Janko, http://www.janko.at/Raetsel/Hitori/461.a.htm
+hitori
+easy+
+8 8
+53828465
+16275354
+81344261
+61647572
+21731184
+78655153
+35867814
+87855438

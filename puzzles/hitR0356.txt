@@ -1,0 +1,19 @@
+% hitori 356 by Otto Janko, http://www.janko.at/Raetsel/Hitori/356.a.htm
+hitori
+medium
+15 15
+8bf142967b33e8d
+5295172f2c6d34e
+e62b8fd31539457
+e52d688a82b7fe7
+ad987c64b974123
+3248f7892dc1e72
+1c541e72c6fb8f5
+d8c8b9614a2e864
+4766c1e53389bd9
+c186218e47faf39
+23bf74cbde96d1a
+6fd5e2379822c71
+e48b3a1321e8bcd
+fa17db2de443698
+53733fb9ff1d21c

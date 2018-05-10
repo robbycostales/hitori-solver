@@ -1,0 +1,14 @@
+% hitori 554 by Otto Janko, http://www.janko.at/Raetsel/Hitori/554.a.htm
+hitori
+easy+
+10 10
+a941489767
+81a6426797
+5a1a277956
+9a47a93346
+79628a4453
+6198a683a1
+966594a1a1
+552697481a
+4578165639
+285238a644

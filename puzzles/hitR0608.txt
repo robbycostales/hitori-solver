@@ -1,0 +1,16 @@
+% hitori 608 by Grant Fikes, http://www.janko.at/Raetsel/Hitori/608.a.htm
+hitori
+unknown
+12 12
+93b4a4248615
+aa4659515b52
+aa452486c6b3
+8c234b6a1957
+72c814b696a6
+3b3736324158
+5278c4a4b636
+293a854b67c1
+42a8b7c73696
+111b7379757a
+c2589713a64b
+b4628a9c7375

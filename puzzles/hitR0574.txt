@@ -1,0 +1,16 @@
+% hitori 574 by Otto Janko, http://www.janko.at/Raetsel/Hitori/574.a.htm
+hitori
+medium-
+12 12
+9bb9627763a1
+19734a7823ca
+bb156c563278
+788c221314c7
+41c5a69a8c39
+3941a79b1c83
+b32151839aba
+972b18c2766c
+73a28c35c144
+44b39562a623
+259881c79a64
+5188b3567b17

@@ -1,0 +1,12 @@
+% hitori 331 by Otto Janko, http://www.janko.at/Raetsel/Hitori/331.a.htm
+hitori
+easy+
+8 8
+78754561
+54168373
+35462686
+42443132
+66831354
+21684547
+46533827
+52326312

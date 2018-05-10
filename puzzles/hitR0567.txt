@@ -1,0 +1,21 @@
+% hitori 567 by Otto Janko, http://www.janko.at/Raetsel/Hitori/567.a.htm
+hitori
+medium
+17 17
+dg5a7g25fd4c37ac8
+bee1534c8a58ggh96
+3g4f2a772a195c9gf
+d56b95hb312a68287
+b8h54fe9bc37a5gga
+72g576e2599hc8ge8
+691c37gge7a88315d
+e76d99458h2ge3c84
+81a1d95fg5c3d9623
+7agge228f7fade55h
+ed172f7b9d56hahcf
+f273c51a386ebe476
+96d7ccg1ab62ga973
+9fhehgad25bg4273c
+4fe2g7627fbb416aa
+c37f686ga495acef2
+344a16c653aee7d99

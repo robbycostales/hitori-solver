@@ -1,0 +1,12 @@
+% hitori 596 by Grant Fikes, http://www.janko.at/Raetsel/Hitori/596.a.htm
+hitori
+easy+
+8 8
+11184323
+82326574
+18571143
+24563817
+46538277
+73265481
+43817776
+53742868

@@ -1,0 +1,14 @@
+% hitori 375 by Otto Janko, http://www.janko.at/Raetsel/Hitori/375.a.htm
+hitori
+medium-
+10 10
+9158653287
+a612659843
+2a54493173
+369615271a
+7611125138
+1768271497
+47394682a2
+4378a1a916
+657a747319
+49a734695a

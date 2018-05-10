@@ -1,0 +1,16 @@
+% hitori 674 by Otto Janko, http://www.janko.at/Raetsel/Hitori/674.a.htm
+hitori
+medium-
+12 12
+415299574a67
+1173a2ccb44a
+ac9b46b5972a
+13c3ba9192a8
+b7912a346cc5
+9bb5911c663c
+494b671556bc
+8ca74c2b3439
+cb6234ab2c57
+792cacb35596
+3a3ccba24b74
+3256397a2bc4

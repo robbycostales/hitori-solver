@@ -1,0 +1,16 @@
+% hitori 583 by Otto Janko, http://www.janko.at/Raetsel/Hitori/583.a.htm
+hitori
+easy+
+12 12
+c56c7342a248
+bb6c43264953
+b45612889aa6
+234b3a68b5ca
+37b87ab95529
+a5948c53cb41
+acb5a275b732
+831415b267a6
+889256245339
+4a265836c195
+211a2cc5a88b
+5235cb6a4682

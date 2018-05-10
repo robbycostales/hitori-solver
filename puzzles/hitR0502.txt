@@ -1,0 +1,12 @@
+% hitori 502 by Otto Janko, http://www.janko.at/Raetsel/Hitori/502.a.htm
+hitori
+medium-
+8 8
+88351635
+14576523
+23431731
+83687511
+57162587
+87848286
+31365872
+76525164

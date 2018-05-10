@@ -1,0 +1,12 @@
+% hitori 661 by Otto Janko, http://www.janko.at/Raetsel/Hitori/661.a.htm
+hitori
+easy+
+8 8
+47164713
+38786146
+43874461
+12187157
+46236576
+14173755
+56412137
+35141348

@@ -1,0 +1,9 @@
+% hitori 14 by Otto Janko, http://www.janko.at/Raetsel/Hitori/014.a.htm
+hitori
+easy+
+5 5
+23342
+55423
+54211
+14351
+42434

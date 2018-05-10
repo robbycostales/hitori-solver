@@ -1,0 +1,14 @@
+% hitori 254 by Otto Janko, http://www.janko.at/Raetsel/Hitori/254.a.htm
+hitori
+medium-
+10 10
+71a7a24293
+1585269a7a
+2196237181
+4741388562
+78a8946858
+86857a1419
+a444579358
+9354719828
+49728715a6
+7a1a423937

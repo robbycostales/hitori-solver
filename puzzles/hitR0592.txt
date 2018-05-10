@@ -1,0 +1,12 @@
+% hitori 592 by Grant Fikes, http://www.janko.at/Raetsel/Hitori/592.a.htm
+hitori
+easy+
+8 8
+74111235
+86457126
+41878356
+42516778
+58232612
+28614537
+17323583
+23715864

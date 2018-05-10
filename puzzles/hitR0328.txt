@@ -1,0 +1,16 @@
+% hitori 328 by Otto Janko, http://www.janko.at/Raetsel/Hitori/328.a.htm
+hitori
+medium
+12 12
+a22156b7c978
+5ac88b742196
+61263846b585
+5582bc315765
+95b67846a524
+b86ca2295379
+4b19c785cc1b
+c7581a1b3a42
+267b4319653a
+279645184b73
+934883766aca
+149521671aac

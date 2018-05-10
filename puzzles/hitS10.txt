@@ -1,0 +1,21 @@
+% hitori, nikoli sample problem 10 by Casty
+hitori
+hard
+17 17
+16632478gb9agc5d5
+23491h6aga57bh8ec
+825481h7g369ab5c5
+398549ha17b76d2ef
+84d652h18cdb8e79d
+4139698252a7cfbfe
+857bfc142d6eg93ah
+572c9d3fa212eg426
+hgae56ddd43c7g7b9
+hg987d2f38c85g684
+68hdf5fb7e24ga739
+71h1b393c181f3dea
+9ah7585c6f2g11143
+ccbaaaefh973d3g22
+bbcfd75e696h22a11
+ad123bc5e9f746hg8
+ce123f46454dg7hgb

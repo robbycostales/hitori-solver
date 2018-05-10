@@ -1,0 +1,14 @@
+% hitori 413 by Otto Janko, http://www.janko.at/Raetsel/Hitori/413.a.htm
+hitori
+medium-
+10 10
+3792717876
+97aa528264
+73837a3694
+4166843a69
+8319a76a3a
+526393a7a5
+622884a151
+3a3346a985
+1977645258
+6854792516

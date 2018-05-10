@@ -1,0 +1,16 @@
+% hitori 417 by Otto Janko, http://www.janko.at/Raetsel/Hitori/417.a.htm
+hitori
+medium-
+12 12
+7b952acaa316
+71284837591c
+95672492a173
+4232567cb992
+2ab616256489
+63a1a9b4c2a1
+248c37396b2a
+c378a592664b
+9664a9589c37
+59c361228871
+6c4bba438725
+87aac3961542

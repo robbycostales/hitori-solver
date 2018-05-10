@@ -1,0 +1,12 @@
+% hitori, nikoli sample problem 4 by crimson
+hitori
+medium
+8 8
+45622371
+34321516
+53124222
+26343215
+81716422
+28237164
+71218333
+12263748

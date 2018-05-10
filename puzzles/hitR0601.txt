@@ -1,0 +1,12 @@
+% hitori 601 by Grant Fikes, http://www.janko.at/Raetsel/Hitori/601.a.htm
+hitori
+unknown
+8 8
+36457614
+73541852
+25371386
+78611523
+41112736
+74365221
+15723448
+52888176

@@ -1,0 +1,14 @@
+% hitori 327 by Otto Janko, http://www.janko.at/Raetsel/Hitori/327.a.htm
+hitori
+medium-
+10 10
+8332561571
+26638659a7
+a546413595
+568aa66732
+a419275558
+1171578324
+66a7689263
+429813686a
+682a934386
+3a58952549

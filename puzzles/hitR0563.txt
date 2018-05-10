@@ -1,0 +1,16 @@
+% hitori 563 by Otto Janko, http://www.janko.at/Raetsel/Hitori/563.a.htm
+hitori
+medium-
+12 12
+5b1891789acc
+2ab1633867c2
+c5269b697875
+81656352427a
+a896a5911546
+a7378c656894
+62397ac113a7
+bc8714592ba6
+1595b1aa3b22
+8624b8cc426b
+b9a275438c61
+2613a77a26bb

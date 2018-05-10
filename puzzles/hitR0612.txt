@@ -1,0 +1,14 @@
+% hitori 612 by Otto Janko, http://www.janko.at/Raetsel/Hitori/612.a.htm
+hitori
+unknown
+10 10
+128a338736
+7695a92374
+2779586536
+6a38934815
+151356a186
+a685385677
+57281a9763
+2372837a47
+714529a5a8
+3aa4a71a57

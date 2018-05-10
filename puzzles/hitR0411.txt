@@ -1,0 +1,12 @@
+% hitori 411 by Otto Janko, http://www.janko.at/Raetsel/Hitori/411.a.htm
+hitori
+easy+
+8 8
+83216466
+41486335
+45762374
+34371356
+24344572
+16433857
+78245721
+85163741

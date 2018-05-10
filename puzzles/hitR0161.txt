@@ -1,0 +1,11 @@
+% hitori 161 by Otto Janko, http://www.janko.at/Raetsel/Hitori/161.a.htm
+hitori
+easy
+7 7
+1374513
+5467312
+6722356
+2351646
+7532455
+3635271
+6317121

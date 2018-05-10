@@ -1,0 +1,13 @@
+% hitori 626 by Thomas Snyder, http://www.janko.at/Raetsel/Hitori/626.a.htm
+hitori
+easy+
+9 9
+134574569
+644753275
+289385246
+541729497
+526946538
+978412719
+875436494
+317178658
+419682925

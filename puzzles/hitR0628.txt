@@ -1,0 +1,16 @@
+% hitori 628 by Tom Collyer, http://www.janko.at/Raetsel/Hitori/628.a.htm
+hitori
+medium-
+12 12
+316a17cc48a9
+2388cbb4779a
+a4993cb1556b
+57216a9b3384
+cba4755261bc
+cb76611264bc
+68c54117a723
+12ac43389b22
+12369687bc12
+9cb7682533a1
+a988267355ca
+ba9954c6773b

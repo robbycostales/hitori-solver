@@ -1,0 +1,9 @@
+% hitori 154 by Otto Janko, http://www.janko.at/Raetsel/Hitori/154.a.htm
+hitori
+easy
+5 5
+44151
+35424
+43242
+12534
+54231

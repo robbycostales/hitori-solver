@@ -1,0 +1,9 @@
+% hitori 11 by Otto Janko, http://www.janko.at/Raetsel/Hitori/011.a.htm
+hitori
+easy+
+5 5
+32554
+45123
+32142
+54332
+13214

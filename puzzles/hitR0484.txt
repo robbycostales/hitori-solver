@@ -1,0 +1,16 @@
+% hitori 484 by Otto Janko, http://www.janko.at/Raetsel/Hitori/484.a.htm
+hitori
+hard-
+12 12
+8828731ac6c6
+3b8ab78b9c45
+13748136bcba
+5194b263ac37
+7cc16278349a
+2b39a99c6561
+796b15cc2313
+42979a515aa8
+44591c2471a6
+c74858a94264
+61124ab5396b
+951c48431272

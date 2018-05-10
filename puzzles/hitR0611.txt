@@ -1,0 +1,14 @@
+% hitori 611 by Otto Janko, http://www.janko.at/Raetsel/Hitori/611.a.htm
+hitori
+unknown
+10 10
+aa43365969
+647a532738
+8183251a73
+7871699455
+a458a67a4a
+4523792816
+726aa74349
+8a923a1838
+397a14725a
+54a9513614

@@ -1,0 +1,9 @@
+% hitori 151 by Otto Janko, http://www.janko.at/Raetsel/Hitori/151.a.htm
+hitori
+easy
+5 5
+25122
+21335
+42443
+54112
+23245

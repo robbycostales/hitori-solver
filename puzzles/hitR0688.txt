@@ -1,0 +1,19 @@
+% hitori 688 by Otto Janko, http://www.janko.at/Raetsel/Hitori/688.a.htm
+hitori
+medium
+15 15
+a929eb21d65a448
+1fa5a836c8449d6
+94aed965388a651
+46c98fcdb2eb1fa
+face46daf3412db
+3d8eface6d774ca
+f2fc5858943e743
+7b149e823cf6135
+bb9fcb6ee17f8cd
+6e51bfd7233d564
+67aafc28dd91f15
+18786d8faa13b5c
+a15821e3ebc7b9c
+9c11437abf58566
+b32f513cd6dceb7

@@ -1,0 +1,16 @@
+% hitori 197 by Otto Janko, http://www.janko.at/Raetsel/Hitori/197.a.htm
+hitori
+medium-
+12 12
+76441a878b5c
+c5b789a91268
+834b95b21187
+6194253ca474
+4176227b5bba
+51c9aa482436
+984a435c7ccb
+a828ccc64515
+32317498bac4
+7b32641548c9
+8267542297c1
+5985b711642a

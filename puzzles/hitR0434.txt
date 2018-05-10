@@ -1,0 +1,14 @@
+% hitori 434 by Otto Janko, http://www.janko.at/Raetsel/Hitori/434.a.htm
+hitori
+medium-
+10 10
+56137a9a42
+6a9a374a64
+7164736295
+8a6a215799
+3762851955
+94775278a1
+4849a25136
+2447558368
+a939148926
+352558a614

@@ -1,0 +1,12 @@
+% hitori 624 by Tom Collyer, http://www.janko.at/Raetsel/Hitori/624.a.htm
+hitori
+medium-
+8 8
+21782352
+64143245
+25374412
+78311864
+27611563
+13226587
+84577641
+26435872

@@ -1,0 +1,12 @@
+% hitori 492 by Otto Janko, http://www.janko.at/Raetsel/Hitori/492.a.htm
+hitori
+easy+
+8 8
+86733162
+83226815
+56181633
+31857528
+42748738
+22513563
+45571286
+57258742

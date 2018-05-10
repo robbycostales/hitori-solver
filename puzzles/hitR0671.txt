@@ -1,0 +1,14 @@
+% hitori 671 by Otto Janko, http://www.janko.at/Raetsel/Hitori/671.a.htm
+hitori
+easy+
+10 10
+462a889a29
+587144a359
+3187981255
+153aa52312
+8925413796
+149219552a
+4949511a8a
+a189365571
+5793166812
+25126599a1

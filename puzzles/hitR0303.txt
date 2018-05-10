@@ -1,0 +1,12 @@
+% hitori 303 by Otto Janko, http://www.janko.at/Raetsel/Hitori/303.a.htm
+hitori
+medium-
+8 8
+38817153
+45833726
+38112176
+52678463
+62383537
+14165383
+27776314
+71653146

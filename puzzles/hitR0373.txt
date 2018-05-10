@@ -1,0 +1,12 @@
+% hitori 373 by Otto Janko, http://www.janko.at/Raetsel/Hitori/373.a.htm
+hitori
+easy+
+8 8
+63614162
+28163347
+86813182
+82256777
+64231718
+44618353
+35387436
+71471825

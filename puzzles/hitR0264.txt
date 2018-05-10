@@ -1,0 +1,14 @@
+% hitori 264 by Otto Janko, http://www.janko.at/Raetsel/Hitori/264.a.htm
+hitori
+medium-
+10 10
+a19954332a
+4391738265
+95a5263578
+4a75237178
+6977174a32
+55142a9588
+742797a621
+356a88a417
+1658627326
+6863a12943

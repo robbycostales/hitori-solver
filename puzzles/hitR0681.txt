@@ -1,0 +1,14 @@
+% hitori 681 by Otto Janko, http://www.janko.at/Raetsel/Hitori/681.a.htm
+hitori
+medium-
+10 10
+8778694112
+4512852a93
+7a74463388
+8625923743
+a18a744997
+9253a47514
+13217aa475
+3242566877
+a487a51486
+76514aa649

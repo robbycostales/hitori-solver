@@ -1,0 +1,16 @@
+% hitori 527 by Otto Janko, http://www.janko.at/Raetsel/Hitori/527.a.htm
+hitori
+hard-
+12 12
+7b27a45c2914
+ac849ab56783
+439ca8aba151
+89b8c31372aa
+967aac98b642
+74591bcab586
+16a67b4634c5
+55c62b395187
+398ba7a41965
+ba3186723ca4
+9827a6a14a3b
+878231689a8c

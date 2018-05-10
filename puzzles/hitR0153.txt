@@ -1,0 +1,9 @@
+% hitori 153 by Otto Janko, http://www.janko.at/Raetsel/Hitori/153.a.htm
+hitori
+very easy
+5 5
+32444
+51532
+44254
+14523
+45414

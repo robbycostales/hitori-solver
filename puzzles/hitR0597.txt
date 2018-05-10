@@ -1,0 +1,12 @@
+% hitori 597 by Grant Fikes, http://www.janko.at/Raetsel/Hitori/597.a.htm
+hitori
+easy
+8 8
+13184111
+87652431
+26841322
+32348156
+48337215
+74423181
+44713822
+41233568

@@ -1,0 +1,16 @@
+% hitori 519 by Otto Janko, http://www.janko.at/Raetsel/Hitori/519.a.htm
+hitori
+medium-
+12 12
+4cab57756114
+b49323ac4661
+1b5ca6988747
+49676b62ac75
+5b776b38279b
+98631c4995a9
+741b9b5abbc8
+8b525177b4a6
+31a68529c975
+23b469663b8c
+c55a34691811
+764877a51232

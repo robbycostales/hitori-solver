@@ -1,0 +1,19 @@
+% hitori 345 by Otto Janko, http://www.janko.at/Raetsel/Hitori/345.a.htm
+hitori
+hard
+15 15
+f9b6261d43e5a58
+783f7d8bb664729
+c166d6e734b5288
+dcd847d18a59365
+5b4a3c7de48214d
+3b239b8a8efd717
+6f2d39ce218238b
+daa1bd641893f5c
+767573d79717be4
+9761faf56d289b7
+7269883cb7aa5d1
+33c35828df46967
+a5f4ebb976dbc32
+d743121fabae797
+ea183693525bdcf

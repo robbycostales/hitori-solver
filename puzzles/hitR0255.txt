@@ -1,0 +1,14 @@
+% hitori 255 by Otto Janko, http://www.janko.at/Raetsel/Hitori/255.a.htm
+hitori
+medium-
+10 10
+565a377142
+72958a4113
+4319128585
+a187231896
+284a299362
+615575a338
+9778765462
+a5316229a9
+5a2a917614
+9994a86851

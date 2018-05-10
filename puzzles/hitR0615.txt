@@ -1,0 +1,16 @@
+% hitori 615 by Otto Janko, http://www.janko.at/Raetsel/Hitori/615.a.htm
+hitori
+unknown
+12 12
+7647b172872a
+2b74383b5b16
+c14765643184
+18a593c52651
+757ab29b8978
+c3968c7a4121
+a71751b57cc3
+6c713799b512
+745a2b6aab76
+1735c59832b4
+7b2646759c27
+5ac2b98a1b6b

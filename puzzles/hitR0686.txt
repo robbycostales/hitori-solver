@@ -1,0 +1,19 @@
+% hitori 686 by Otto Janko, http://www.janko.at/Raetsel/Hitori/686.a.htm
+hitori
+medium
+15 15
+ba5e5c4dac171f3
+41d2b4c2973d8ab
+5978ad13759ca8e
+26b1856cdde985c
+8d99d611c2f5538
+f3a6275c144ebf8
+7615e28f21d6f7b
+eb76d1993cd648e
+5d8d6132feac1cf
+d899756eff6133d
+7cd318dfaa83e9c
+c33da2e846ed995
+3a1728bb3425d69
+4eba54988da3ebd
+d524eab77f91ce1

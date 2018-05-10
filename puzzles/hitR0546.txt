@@ -1,0 +1,16 @@
+% hitori 546 by Otto Janko, http://www.janko.at/Raetsel/Hitori/546.a.htm
+hitori
+medium-
+12 12
+9352bb5768c2
+6b3916947a38
+78654735c96a
+54b183489aa9
+7a53b7b94154
+148ccc9a574b
+643a91883b6c
+849c6c771c58
+c92b6815a473
+b81854a84433
+46733aa17cb5
+a36c94738579

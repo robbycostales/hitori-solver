@@ -1,0 +1,16 @@
+% hitori 459 by Otto Janko, http://www.janko.at/Raetsel/Hitori/459.a.htm
+hitori
+hard-
+12 12
+bab483582971
+6742c13977a3
+26399b4b5217
+34a8c5cb96bb
+a125b4bc7139
+1caa43934835
+371c22a56849
+c85939648a7c
+c3351a1b8b2b
+57c47b46a383
+7176a7b83592
+89b4673a16c6

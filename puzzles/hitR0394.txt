@@ -1,0 +1,14 @@
+% hitori 394 by Otto Janko, http://www.janko.at/Raetsel/Hitori/394.a.htm
+hitori
+medium-
+10 10
+6963174a25
+5128344699
+67483a2751
+9577826632
+7785731a26
+183965a242
+34617298a9
+12a9a35383
+47a7459128
+23969385a4

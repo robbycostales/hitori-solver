@@ -1,0 +1,14 @@
+% hitori 304 by Otto Janko, http://www.janko.at/Raetsel/Hitori/304.a.htm
+hitori
+medium-
+10 10
+6193427335
+a334359978
+7889694283
+6a78293589
+4546889a3a
+782873a619
+94413798a9
+1745a53651
+32478a519a
+161a948442

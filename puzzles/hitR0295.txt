@@ -1,0 +1,14 @@
+% hitori 295 by Otto Janko, http://www.janko.at/Raetsel/Hitori/295.a.htm
+hitori
+medium-
+10 10
+197a361454
+4124359446
+5477981a92
+a83412a9a8
+6231a15a87
+819591a762
+373951687a
+98829a4373
+7578233174
+a856547232

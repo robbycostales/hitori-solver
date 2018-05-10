@@ -1,0 +1,16 @@
+% hitori 400 by Otto Janko, http://www.janko.at/Raetsel/Hitori/400.a.htm
+hitori
+medium
+12 12
+13b1768743c8
+a8394b3cb675
+15a85cbb2968
+46cb31557222
+3c378b416aa9
+5486a4a2c3b7
+794c3c17574a
+215a4b7c9826
+372acab58c1a
+7764a2a5c1a3
+4243b4c96751
+5b78a565345c

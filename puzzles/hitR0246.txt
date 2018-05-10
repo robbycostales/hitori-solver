@@ -1,0 +1,14 @@
+% hitori 246 by Otto Janko, http://www.janko.at/Raetsel/Hitori/246.a.htm
+hitori
+medium-
+10 10
+9a94963185
+759196a634
+34692998a8
+715a845373
+1439538266
+43a68a6517
+a942979486
+86594a1a39
+287815934a
+5823672981

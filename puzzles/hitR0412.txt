@@ -1,0 +1,12 @@
+% hitori 412 by Otto Janko, http://www.janko.at/Raetsel/Hitori/412.a.htm
+hitori
+easy+
+8 8
+54138637
+86718486
+31362175
+56851264
+67656123
+63486254
+12777368
+88683551

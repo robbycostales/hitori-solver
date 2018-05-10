@@ -1,0 +1,16 @@
+% hitori 584 by Otto Janko, http://www.janko.at/Raetsel/Hitori/584.a.htm
+hitori
+easy
+12 12
+352ca3812bc9
+2b436875b959
+37225898c963
+62818c4554bb
+54acb2a31635
+ac331b6b467a
+a96a24974281
+569283b2ab18
+971b72c12398
+78c131a497ba
+18a82b445791
+2b5841138427

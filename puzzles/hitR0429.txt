@@ -1,0 +1,19 @@
+% hitori 429 by Otto Janko, http://www.janko.at/Raetsel/Hitori/429.a.htm
+hitori
+medium
+15 15
+daf9f1df5fc4348
+ddca5a1429f39e7
+a18ddfdc8e2959b
+3d7526f1e1a4ca9
+d46e9827f58fbfa
+4e7f1c9bbd7da62
+ba5e9d76814713f
+7717ea6943b7df2
+c99af47d4b46875
+794279b8c353e87
+9dedb78a8462193
+6aa489cb9ff521d
+e371a87571d1f34
+afd8385b761e6ac
+fcbc45aea2d8697

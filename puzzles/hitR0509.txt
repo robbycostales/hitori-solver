@@ -1,0 +1,16 @@
+% hitori 509 by Otto Janko, http://www.janko.at/Raetsel/Hitori/509.a.htm
+hitori
+medium
+12 12
+58511324ca91
+6928a12437b9
+497aab1b5c63
+b4a825c3687c
+83798c6cb5aa
+13759ac845c2
+82c96959c384
+c253c695a187
+21b948976985
+9367c4ab2a3b
+9a9972351c23
+7b3279416a56

@@ -1,0 +1,14 @@
+% hitori 481 by Otto Janko, http://www.janko.at/Raetsel/Hitori/481.a.htm
+hitori
+medium
+10 10
+9173a12556
+2821436943
+2936253a18
+1425239967
+57179a787a
+67621a8945
+3a5a76a481
+614453a397
+4a9968a142
+8a69795234

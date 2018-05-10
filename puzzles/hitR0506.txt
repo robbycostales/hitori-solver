@@ -1,0 +1,14 @@
+% hitori 506 by Otto Janko, http://www.janko.at/Raetsel/Hitori/506.a.htm
+hitori
+medium-
+10 10
+28a8779416
+32652849a7
+3256831664
+5126894a36
+a3944423a1
+8a64173369
+3938568286
+676955a642
+157a924586
+4561a6762a

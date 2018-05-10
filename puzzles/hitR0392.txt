@@ -1,0 +1,12 @@
+% hitori 392 by Otto Janko, http://www.janko.at/Raetsel/Hitori/392.a.htm
+hitori
+medium-
+8 8
+12423415
+54671812
+61678723
+68652367
+13536778
+35727144
+36875741
+17164458

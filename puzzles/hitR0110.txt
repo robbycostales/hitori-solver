@@ -1,0 +1,11 @@
+% hitori 110 by Otto Janko, http://www.janko.at/Raetsel/Hitori/110.a.htm
+hitori
+easy+
+7 7
+4247111
+5221743
+4562231
+3653271
+6755342
+1735626
+4341167

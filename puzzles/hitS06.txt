@@ -1,0 +1,16 @@
+% hitori, nikoli sample problem 6 by SAKAMOTO, Nobuyuki
+hitori
+medium
+12 12
+11b1c56b3895
+c54148362bb7
+73c12a4b1bb6
+58bcbb11b942
+4379bb1ca652
+8635111bc249
+91211cbb7634
+82537bca111b
+178b942356c3
+b75683128c11
+a96232589411
+3c949715b32a

@@ -1,0 +1,11 @@
+% hitori 33 by Otto Janko, http://www.janko.at/Raetsel/Hitori/033.a.htm
+hitori
+medium-
+7 7
+1452677
+4745523
+4576227
+6324731
+7672341
+2131746
+7257166

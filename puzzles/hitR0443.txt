@@ -1,0 +1,14 @@
+% hitori 443 by Otto Janko, http://www.janko.at/Raetsel/Hitori/443.a.htm
+hitori
+medium-
+10 10
+8a51643275
+24a8179525
+5732347899
+126aaa4937
+313612878a
+a883236a43
+9247565a91
+3884a1a692
+167419528a
+29154a11a8

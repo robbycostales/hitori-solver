@@ -1,0 +1,8 @@
+% hitori 621 by Anuraag Sahay, http://www.janko.at/Raetsel/Hitori/621.a.htm
+hitori
+easy
+6 4
+627146
+327531
+461353
+125623

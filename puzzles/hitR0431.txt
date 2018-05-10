@@ -1,0 +1,12 @@
+% hitori 431 by Otto Janko, http://www.janko.at/Raetsel/Hitori/431.a.htm
+hitori
+easy+
+8 8
+52337747
+48351217
+71461513
+36568628
+25678361
+55642435
+31284875
+53586432

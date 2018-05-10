@@ -1,0 +1,12 @@
+% hitori 511 by Otto Janko, http://www.janko.at/Raetsel/Hitori/511.a.htm
+hitori
+medium-
+8 8
+53657187
+72767488
+35184262
+65741811
+46566217
+24832715
+21275243
+67382656

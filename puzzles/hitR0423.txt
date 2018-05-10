@@ -1,0 +1,14 @@
+% hitori 423 by Otto Janko, http://www.janko.at/Raetsel/Hitori/423.a.htm
+hitori
+medium-
+10 10
+272251a333
+46a2796183
+2a71a3436a
+81346549a6
+2544288379
+1439682258
+6515483887
+5253547a98
+283a125524
+3a78765546

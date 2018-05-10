@@ -1,0 +1,11 @@
+% hitori 104 by Otto Janko, http://www.janko.at/Raetsel/Hitori/104.a.htm
+hitori
+easy+
+7 7
+2621137
+3445751
+1753724
+5155463
+5464677
+4376512
+2227755

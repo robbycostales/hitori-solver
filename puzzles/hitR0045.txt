@@ -1,0 +1,10 @@
+% hitori 45 by Otto Janko, http://www.janko.at/Raetsel/Hitori/045.a.htm
+hitori
+easy+
+6 6
+352164
+245626
+234645
+512454
+621543
+262433

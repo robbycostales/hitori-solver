@@ -1,0 +1,12 @@
+% hitori 652 by Otto Janko, http://www.janko.at/Raetsel/Hitori/652.a.htm
+hitori
+easy+
+8 8
+62744585
+17118832
+84625316
+66568184
+15645276
+26361715
+63654464
+41287353

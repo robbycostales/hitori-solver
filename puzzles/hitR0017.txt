@@ -1,0 +1,12 @@
+% hitori 17 by Otto Janko, http://www.janko.at/Raetsel/Hitori/017.a.htm
+hitori
+easy+
+8 8
+36231674
+38143716
+34836312
+61523435
+26674157
+17188264
+75568524
+72387848

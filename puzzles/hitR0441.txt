@@ -1,0 +1,12 @@
+% hitori 441 by Otto Janko, http://www.janko.at/Raetsel/Hitori/441.a.htm
+hitori
+easy+
+8 8
+44641888
+67332518
+27844683
+43116552
+48254745
+36584146
+81675434
+76387422

@@ -1,0 +1,12 @@
+% hitori 170 by Otto Janko, http://www.janko.at/Raetsel/Hitori/170.a.htm
+hitori
+easy+
+8 8
+16558884
+48682531
+21172683
+72138845
+73148125
+18354512
+35121487
+55813577

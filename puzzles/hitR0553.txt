@@ -1,0 +1,14 @@
+% hitori 553 by Otto Janko, http://www.janko.at/Raetsel/Hitori/553.a.htm
+hitori
+medium-
+10 10
+36a4982962
+a9286a4687
+7569217359
+225115766a
+46139889a2
+5393822747
+9a58663a54
+38a21a4439
+2a37a96815
+a566a99775

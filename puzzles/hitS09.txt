@@ -1,0 +1,21 @@
+% hitori, nikoli sample problem 9 by Hideyoshi Yogosawa
+hitori
+hard
+17 17
+g7eb5832141ah61d1
+48e8hb5616a237g79
+8def53c41b226h111
+e8d8a49636gb2757h
+8g4h5617ded3abf9f
+5chcd41373egbga28
+3335371bd8dha4f6f
+ac1c2483937g5gd4b
+fh61gc7d5558ae4b3
+h9c7e4d383bg1g645
+b1b7b5behd9f984c3
+9a876hghc141d1b3e
+b2babdb1bh94959e3
+cb7e8eh52161413ag
+643331bcbf858a8h3
+7e5e9e28a131g1hfd
+1694cfbab7he8d8g3

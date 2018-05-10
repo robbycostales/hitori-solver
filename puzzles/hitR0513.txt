@@ -1,0 +1,14 @@
+% hitori 513 by Otto Janko, http://www.janko.at/Raetsel/Hitori/513.a.htm
+hitori
+medium-
+10 10
+3887972411
+4319a8a176
+9937a67125
+97a2821737
+51a6a29374
+2a74623451
+71942a9678
+3687385847
+875a516923
+682843357a

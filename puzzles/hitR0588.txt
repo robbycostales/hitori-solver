@@ -1,0 +1,21 @@
+% hitori 588 by Otto Janko, http://www.janko.at/Raetsel/Hitori/588.a.htm
+hitori
+medium
+17 17
+b11c3492g2h76b983
+a1cffg4bd2cbh3767
+hf71a79f4c5c425db
+b88ggbdcc53212e31
+5gehc9abgh362f6f4
+cb4b2e3d5d5gacfe9
+9f9ebe4174a8achhf
+f42375cae72498a16
+hb26gdh72673dg4bf
+6hb4bdah3f7cga65c
+d61f32gh8cb1b856h
+8d876554ahb99ghf1
+4c4e8hc3b92f832e7
+6h5787ec2396843be
+8g367fbfh7c24e32g
+9e3dh8dab3142bch2
+d26hcc8dffgg7524e

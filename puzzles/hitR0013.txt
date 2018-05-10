@@ -1,0 +1,9 @@
+% hitori 13 by Otto Janko, http://www.janko.at/Raetsel/Hitori/013.a.htm
+hitori
+easy+
+5 5
+45213
+14135
+52452
+41123
+25345

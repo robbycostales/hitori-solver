@@ -1,0 +1,13 @@
+% hitori 543 by Otto Janko, http://www.janko.at/Raetsel/Hitori/543.a.htm
+hitori
+easy+
+9 9
+166143338
+839725164
+643911942
+622611792
+492163581
+311234846
+347159254
+964258673
+375824722

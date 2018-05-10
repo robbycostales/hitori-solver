@@ -1,0 +1,14 @@
+% hitori 336 by Otto Janko, http://www.janko.at/Raetsel/Hitori/336.a.htm
+hitori
+medium-
+10 10
+1645737287
+a558966637
+6a13727458
+4568a59472
+987a285134
+558aa92313
+3618844546
+5439378a21
+81a7561349
+123857a978

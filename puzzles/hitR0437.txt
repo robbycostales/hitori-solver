@@ -1,0 +1,16 @@
+% hitori 437 by Otto Janko, http://www.janko.at/Raetsel/Hitori/437.a.htm
+hitori
+medium-
+12 12
+785b1c949736
+1278734ca92b
+328a4c19b629
+65c75b6142ac
+c841a863ab91
+c46acbb41285
+51b974368a82
+4a8c3289bc65
+73c194a5c4b8
+ba15b65a3284
+8bac5c489811
+2134b9c86759

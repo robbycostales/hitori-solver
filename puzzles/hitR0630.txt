@@ -1,0 +1,16 @@
+% hitori 630 by Grant Fikes, http://www.janko.at/Raetsel/Hitori/630.a.htm
+hitori
+medium
+12 12
+93246a75b179
+372461acbc58
+71a52349b6c8
+5132b283976a
+41b39997a82a
+549912c8637b
+1588cb322247
+29775c4b6a81
+aa4b77211593
+bb1c776a4583
+cc5aa81479b3
+86caa5147b32

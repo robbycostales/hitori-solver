@@ -1,0 +1,12 @@
+% hitori 604 by Grant Fikes, http://www.janko.at/Raetsel/Hitori/604.a.htm
+hitori
+unknown
+8 8
+87753172
+42187536
+18425583
+35142867
+66338527
+58672481
+43281756
+71566314

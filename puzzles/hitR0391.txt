@@ -1,0 +1,12 @@
+% hitori 391 by Otto Janko, http://www.janko.at/Raetsel/Hitori/391.a.htm
+hitori
+medium-
+8 8
+58482622
+25678143
+12587732
+61323477
+38872757
+73641562
+42755586
+67616265

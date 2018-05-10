@@ -1,0 +1,12 @@
+% hitori 70 by Otto Janko, http://www.janko.at/Raetsel/Hitori/070.a.htm
+hitori
+medium-
+8 8
+56731412
+56274537
+74621315
+33547162
+42416756
+15356642
+41466273
+37145222

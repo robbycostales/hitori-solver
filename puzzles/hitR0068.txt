@@ -1,0 +1,12 @@
+% hitori 68 by Otto Janko, http://www.janko.at/Raetsel/Hitori/068.a.htm
+hitori
+medium-
+8 8
+14181517
+52827246
+75344162
+41716531
+86638485
+18462577
+86655324
+61223554

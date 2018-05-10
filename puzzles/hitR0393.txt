@@ -1,0 +1,14 @@
+% hitori 393 by Otto Janko, http://www.janko.at/Raetsel/Hitori/393.a.htm
+hitori
+medium-
+10 10
+516752a324
+5286818246
+a914732856
+48858a129a
+5a58683442
+2558971a13
+83a3289668
+349a956781
+924a847536
+399214757a

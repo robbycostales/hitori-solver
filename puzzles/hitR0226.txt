@@ -1,0 +1,16 @@
+% hitori 226 by Otto Janko, http://www.janko.at/Raetsel/Hitori/226.a.htm
+hitori
+medium-
+12 12
+26a3c9875aaa
+67a995221c64
+4239573c867a
+b5123928c42b
+8b8126529343
+c826b6c47a51
+19222cca6b89
+cc97421583b6
+bcb617a335aa
+6ac5a372b317
+b18b2a964793
+8a4c84b4a235

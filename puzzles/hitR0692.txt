@@ -1,0 +1,14 @@
+% hitori 692 by Otto Janko, http://www.janko.at/Raetsel/Hitori/692.a.htm
+hitori
+easy+
+10 10
+86914565aa
+46381187a5
+34758a7236
+9977643314
+6783453485
+224956a638
+a867a27642
+9a66125852
+2586a96357
+154a64886a

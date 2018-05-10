@@ -1,0 +1,12 @@
+% hitori 401 by Otto Janko, http://www.janko.at/Raetsel/Hitori/401.a.htm
+hitori
+medium-
+8 8
+75828761
+83565487
+15213778
+56714845
+71314685
+27547131
+74587386
+57438121

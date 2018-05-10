@@ -1,0 +1,16 @@
+% hitori 114 by Otto Janko, http://www.janko.at/Raetsel/Hitori/114.a.htm
+hitori
+medium-
+12 12
+c531aa926468
+c8a97c3b29cb
+59b74263bab1
+158aa76cb34c
+6b352967b17c
+b45bc1248839
+46784379acb4
+c429bc743215
+36c694856b6a
+2c49ac115183
+729ba8c19573
+8ab419517123

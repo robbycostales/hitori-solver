@@ -1,0 +1,12 @@
+% hitori 169 by Otto Janko, http://www.janko.at/Raetsel/Hitori/169.a.htm
+hitori
+easy+
+8 8
+52118631
+24475385
+58637162
+66385747
+56183284
+57822457
+73551568
+44563724

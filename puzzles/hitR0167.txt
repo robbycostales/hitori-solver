@@ -1,0 +1,12 @@
+% hitori 167 by Otto Janko, http://www.janko.at/Raetsel/Hitori/167.a.htm
+hitori
+easy+
+8 8
+28171332
+33428527
+85641173
+61845317
+73781671
+16273478
+46351726
+44537864

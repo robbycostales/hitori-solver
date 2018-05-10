@@ -1,0 +1,12 @@
+% hitori 69 by Otto Janko, http://www.janko.at/Raetsel/Hitori/069.a.htm
+hitori
+easy+
+8 8
+72386725
+45128671
+83472368
+38571446
+81573842
+27531214
+76265781
+24186537

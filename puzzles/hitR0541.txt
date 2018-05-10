@@ -1,0 +1,13 @@
+% hitori 541 by Otto Janko, http://www.janko.at/Raetsel/Hitori/541.a.htm
+hitori
+easy+
+9 9
+982328776
+867468529
+848277653
+423947399
+652783985
+233916144
+756983334
+328592467
+596664148

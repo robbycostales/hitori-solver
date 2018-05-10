@@ -1,0 +1,12 @@
+% hitori 422 by Otto Janko, http://www.janko.at/Raetsel/Hitori/422.a.htm
+hitori
+easy+
+8 8
+47427528
+52834617
+42453326
+11627135
+83376432
+85758461
+38261754
+44122181

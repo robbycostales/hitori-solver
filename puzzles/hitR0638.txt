@@ -1,0 +1,16 @@
+% hitori 638 by Otto Janko, http://www.janko.at/Raetsel/Hitori/638.a.htm
+hitori
+medium-
+12 12
+22ba4638148a
+1c32b1ca4728
+45273a898192
+1a8199473457
+352887616b75
+c78b9194839a
+115363ab217b
+24a65b9868b7
+cb28437c4241
+5a729c98abb5
+aca64842852b
+c8451cb67ac3

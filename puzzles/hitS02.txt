@@ -1,0 +1,12 @@
+% hitori, nikoli sample problem 2 by TAKEI Daisuke
+hitori
+easy
+8 8
+11533478
+11633887
+72246883
+42261715
+58774326
+85772644
+66325544
+66485532

@@ -1,0 +1,14 @@
+% hitori 403 by Otto Janko, http://www.janko.at/Raetsel/Hitori/403.a.htm
+hitori
+medium-
+10 10
+3456297816
+a764792531
+a2a6783345
+97a1544258
+74169a3385
+463713a92a
+6923835a3a
+5875425749
+2583336174
+54781191a4

@@ -1,0 +1,13 @@
+% hitori 627 by Thomas Snyder, http://www.janko.at/Raetsel/Hitori/627.a.htm
+hitori
+medium-
+9 9
+713325265
+114253697
+342526272
+425161762
+252647334
+586171341
+562733415
+637834549
+472449281

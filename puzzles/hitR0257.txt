@@ -1,0 +1,16 @@
+% hitori 257 by Otto Janko, http://www.janko.at/Raetsel/Hitori/257.a.htm
+hitori
+medium-
+12 12
+2c5933a7b884
+43a6431979b5
+5194a2b64317
+6575b8218c45
+3b376ab8462b
+b5257c916766
+575685c9923a
+933c51324875
+59b1b86a3ac2
+c61771552a1b
+68621b65aa6c
+a5c929736b19

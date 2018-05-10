@@ -1,0 +1,12 @@
+% hitori 442 by Otto Janko, http://www.janko.at/Raetsel/Hitori/442.a.htm
+hitori
+medium-
+8 8
+26733456
+54831267
+24262321
+18322548
+78714232
+47572623
+32438716
+37653223

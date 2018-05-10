@@ -1,0 +1,19 @@
+% hitori 418 by Otto Janko, http://www.janko.at/Raetsel/Hitori/418.a.htm
+hitori
+medium
+15 15
+d4bed4c51872a63
+28b3c7f81853d19
+c73df1e95a2768b
+475fb6b2acd98bc
+3cf4ad578ec8b34
+fbd9e28b67c8194
+a5c259db7364e58
+856b2b13ddfa78f
+dedc672cb38f8ae
+851e827fde963c5
+4aef91b28c31bbd
+714abb6542f52d8
+8d984c41f25b5c6
+56a3481d3fbbc23
+1b5beef82e4cd7f

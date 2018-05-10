@@ -1,0 +1,14 @@
+% hitori 212 by Otto Janko, http://www.janko.at/Raetsel/Hitori/212.a.htm
+hitori
+medium-
+10 10
+5a31423264
+23141a6895
+495a361481
+34258277a6
+4837928a87
+2758249237
+7859251a4a
+12a2692784
+5347a39198
+a17298a678

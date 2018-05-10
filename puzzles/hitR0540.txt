@@ -1,0 +1,16 @@
+% hitori 540 by Otto Janko, http://www.janko.at/Raetsel/Hitori/540.a.htm
+hitori
+hard-
+12 12
+74289ab73697
+959176c8cc32
+a95bbb887254
+82997bc65918
+443b98a241c6
+c68c3a519342
+64c7793ca865
+7bc2542c1c8a
+34949ca16561
+58b7c7532ba9
+257648158cb3
+2c16a219a3bb

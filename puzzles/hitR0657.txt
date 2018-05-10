@@ -1,0 +1,19 @@
+% hitori 657 by Otto Janko, http://www.janko.at/Raetsel/Hitori/657.a.htm
+hitori
+medium
+15 15
+eda12e4cd6da3bb
+824f4594b746dca
+6d968c8da3f7834
+882a6fe1bcb2fd6
+5de42d8493ccd12
+c78a515b2a43a2e
+3d62af7a61bd7ba
+ac7e39548f219a6
+1752daca67ea247
+fd464432da8bed5
+b837fad7536a82d
+af9522c8c9766c3
+eb1caefc32f978d
+9af44cb7dfc2d6b
+647d96ad187ec7f

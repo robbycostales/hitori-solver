@@ -1,0 +1,14 @@
+% hitori 305 by Otto Janko, http://www.janko.at/Raetsel/Hitori/305.a.htm
+hitori
+medium-
+10 10
+5314565929
+5279171318
+6a58886a19
+347a129567
+7695758a34
+a868597431
+45974a8256
+617539249a
+79a6231852
+a752984855

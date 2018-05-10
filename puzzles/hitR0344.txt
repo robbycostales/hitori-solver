@@ -1,0 +1,19 @@
+% hitori 344 by Otto Janko, http://www.janko.at/Raetsel/Hitori/344.a.htm
+hitori
+medium
+15 15
+3fdec981c65db2a
+efd29c624afbe59
+11afeec467d5382
+b5fee2d4c18b637
+5491da36ec27b4c
+638a299d9b79e95
+9b575a46fd38213
+1276b129f8ae334
+d4d3d7e283b2c39
+7635a4b82f49fde
+aab431569eb6d7e
+6e85e417b93a6cb
+f7e22315b26bfe1
+da4b8d72649f5ee
+8d5856fe1341eb4

@@ -1,0 +1,14 @@
+% hitori 221 by Jak Marshall, http://www.janko.at/Raetsel/Hitori/221.a.htm
+hitori
+medium-
+10 10
+25b612a479
+535b876419
+756ab83429
+1b89a44765
+6b95aa42b4
+b277615488
+371a866557
+a932358331
+11287996aa
+11425998a6

@@ -1,0 +1,9 @@
+% hitori 3 by Otto Janko, http://www.janko.at/Raetsel/Hitori/003.a.htm
+hitori
+easy
+5 5
+25333
+31425
+22533
+14512
+42154

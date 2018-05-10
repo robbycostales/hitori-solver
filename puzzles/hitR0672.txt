@@ -1,0 +1,14 @@
+% hitori 672 by Otto Janko, http://www.janko.at/Raetsel/Hitori/672.a.htm
+hitori
+medium-
+10 10
+93a5786873
+364315a992
+9214668519
+7a12a99467
+15761a4997
+33574878a1
+645751738a
+696aa41473
+452a899a56
+8a73964184

@@ -1,0 +1,14 @@
+% hitori 274 by Otto Janko, http://www.janko.at/Raetsel/Hitori/274.a.htm
+hitori
+medium-
+10 10
+6116a76894
+57a6a41a85
+784a186352
+45aa729238
+3451a93a73
+288232692a
+19985a5647
+a375415969
+a624833519
+a2754649a8

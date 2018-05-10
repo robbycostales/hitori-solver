@@ -1,0 +1,14 @@
+% hitori 534 by Otto Janko, http://www.janko.at/Raetsel/Hitori/534.a.htm
+hitori
+medium-
+10 10
+371586a924
+a15121a873
+44421a9356
+8a43757279
+9563a17141
+16487235a5
+652a148357
+653a442115
+2284375a91
+73aa981518

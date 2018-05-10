@@ -1,0 +1,19 @@
+% hitori 315 by Otto Janko, http://www.janko.at/Raetsel/Hitori/315.a.htm
+hitori
+hard-
+15 15
+3bf326ba4539dec
+fed4c72c798d18b
+6b27d5c83fb1aa9
+42ace3594867d53
+e83d8365feba475
+86d3b2176a2ef55
+731958bced942a6
+c183a2d4163ebb7
+43671d4e57f73c1
+474a35c98b46ebf
+9a722c35be8fd1a
+29b7fe93d97dc3a
+bfc671cd32ec4d8
+25e96a8fc11b12c
+7d3e24ab7ca8562

@@ -1,0 +1,12 @@
+% hitori 281 by Otto Janko, http://www.janko.at/Raetsel/Hitori/281.a.htm
+hitori
+easy+
+8 8
+41725484
+43321767
+35373611
+16668274
+76853131
+87177452
+74262521
+57218846

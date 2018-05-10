@@ -1,0 +1,12 @@
+% hitori 363 by Otto Janko, http://www.janko.at/Raetsel/Hitori/363.a.htm
+hitori
+easy+
+8 8
+41423724
+46825813
+34274825
+63617186
+75235426
+42758641
+58241861
+27282532

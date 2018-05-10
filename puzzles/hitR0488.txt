@@ -1,0 +1,19 @@
+% hitori 488 by Otto Janko, http://www.janko.at/Raetsel/Hitori/488.a.htm
+hitori
+hard
+15 15
+835c8ba5996bfb1
+cb552a49d3761ae
+2aeaa57da1c84fb
+a7a9c8341e8d254
+54dca148f4b44e4
+f563d2b4bc7aea9
+941cfc8c36ed7cc
+6d6b636fe7c5c78
+a4f47656982443c
+be38bd45a9195c2
+6294991e86fad87
+8891e74ab5b24d4
+e879bb21bd53a4f
+8f979c924a3a561
+4a8e3fd3726c6b5

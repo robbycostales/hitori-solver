@@ -1,0 +1,21 @@
+% hitori 559 by Otto Janko, http://www.janko.at/Raetsel/Hitori/559.a.htm
+hitori
+medium
+17 17
+h134d2f572h1b894c
+f18h7dd47g5fe2eha
+95a9h813b37a1ch75
+g6ae58hdf7bf43782
+gge74f184a28a2517
+c6g962dfga7b14e39
+7ef66g731195af9a3
+9db141g8f8397ec65
+8213376eafh899a71
+e8fg14hha78gc7f2b
+64h724aeceag697dc
+f332g9c741aefh554
+1b93fa42g2d18f4d3
+5b1d3579cbc49a8eh
+67d28127h8443h6f1
+d88h1bcc65e921f4g
+822ah544ed836egh7

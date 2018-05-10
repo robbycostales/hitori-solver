@@ -1,0 +1,12 @@
+% hitori 80 by Toshio Karino, http://www.janko.at/Raetsel/Hitori/080.a.htm
+hitori
+medium-
+8 8
+31224735
+41338567
+12457643
+63521674
+34216526
+28746215
+75672381
+17365637

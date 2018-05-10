@@ -1,0 +1,12 @@
+% hitori 188 by Otto Janko, http://www.janko.at/Raetsel/Hitori/188.a.htm
+hitori
+easy+
+8 8
+77368156
+51826435
+26782145
+35642788
+46685718
+83461827
+18653332
+62843161

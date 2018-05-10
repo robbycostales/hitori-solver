@@ -1,0 +1,16 @@
+% hitori 564 by Otto Janko, http://www.janko.at/Raetsel/Hitori/564.a.htm
+hitori
+medium-
+12 12
+623516154743
+7c269b43b818
+13a9a7741b23
+cc9b513618b2
+c4761b32b36c
+b23182c664ab
+671446bc2235
+bbac5577368a
+38927c4b9c4a
+714cc56b7a5b
+46b7a1a58229
+39b463c76cb9

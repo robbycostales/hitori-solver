@@ -1,0 +1,12 @@
+% hitori 603 by Grant Fikes, http://www.janko.at/Raetsel/Hitori/603.a.htm
+hitori
+unknown
+8 8
+28174536
+41122865
+57826341
+53361118
+36785222
+82333754
+14447586
+75218673

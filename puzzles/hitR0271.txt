@@ -1,0 +1,12 @@
+% hitori 271 by Otto Janko, http://www.janko.at/Raetsel/Hitori/271.a.htm
+hitori
+medium-
+8 8
+72616345
+31514774
+75345852
+58121754
+23457516
+24154168
+75162738
+87831528

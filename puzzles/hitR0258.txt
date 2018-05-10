@@ -1,0 +1,16 @@
+% hitori 258 by Otto Janko, http://www.janko.at/Raetsel/Hitori/258.a.htm
+hitori
+hard-
+12 12
+1275ac819a3b
+5c7729645a8a
+423b36a1c831
+96ab81127694
+c4c2b51567c8
+31c884962b57
+c7b43c9886c2
+8158cb29a266
+6bb1872c6243
+73ba5b472c36
+9867728b4cc2
+228683ca1579

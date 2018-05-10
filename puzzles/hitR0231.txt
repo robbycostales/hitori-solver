@@ -1,0 +1,19 @@
+% hitori 231 by Otto Janko, http://www.janko.at/Raetsel/Hitori/231.a.htm
+hitori
+medium
+15 15
+cbf17e19932cdbe
+1f842eae97b713d
+256c9a7182deb43
+b7c6f9546cd432e
+e29be6da16795b8
+6623857bc71d892
+2ae7d3911f1ba6c
+519b64e4743ccac
+9dbef682c7f5144
+a66b57b3ec89e41
+c138cb3ed476f51
+f9328d6843c1762
+834d4ae32b7f975
+3c45b14f29a4ed6
+ea518be7bd9c98e

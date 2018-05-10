@@ -1,0 +1,11 @@
+% hitori 164 by Otto Janko, http://www.janko.at/Raetsel/Hitori/164.a.htm
+hitori
+easy
+7 7
+3453253
+2754361
+1636667
+5267745
+3652134
+4376265
+6566422

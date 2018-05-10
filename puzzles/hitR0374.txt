@@ -1,0 +1,12 @@
+% hitori 374 by Otto Janko, http://www.janko.at/Raetsel/Hitori/374.a.htm
+hitori
+medium-
+8 8
+38652371
+31217184
+26862536
+52548413
+83326641
+77546442
+46686253
+13435867

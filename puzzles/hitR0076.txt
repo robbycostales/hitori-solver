@@ -1,0 +1,12 @@
+% hitori 76 by Otto Janko, http://www.janko.at/Raetsel/Hitori/076.a.htm
+hitori
+medium-
+8 8
+65954388
+67493728
+59427633
+54461199
+33582274
+33779446
+26338559
+38336772

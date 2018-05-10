@@ -1,0 +1,12 @@
+% hitori 323 by Otto Janko, http://www.janko.at/Raetsel/Hitori/323.a.htm
+hitori
+medium-
+8 8
+82487354
+54772386
+27453674
+25871765
+41218175
+78424415
+62514727
+16173841

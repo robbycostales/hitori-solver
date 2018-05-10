@@ -1,0 +1,16 @@
+% hitori 449 by Otto Janko, http://www.janko.at/Raetsel/Hitori/449.a.htm
+hitori
+medium
+12 12
+c317689188ba
+523a7778c125
+6c182ba15c73
+27b414897645
+aaa344b2725c
+57298c6c4c3b
+1c8b4a6735a9
+845543c125a6
+8971aca31417
+a591b342836a
+7145529a94c1
+a6c2a5348787

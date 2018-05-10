@@ -1,0 +1,19 @@
+% hitori 585 by Otto Janko, http://www.janko.at/Raetsel/Hitori/585.a.htm
+hitori
+medium-
+15 15
+b1ef5d6ba8f2e89
+238bc2a89d6f17a
+6e5f22e58f7b673
+58f4e629a86b7a1
+6fcb2ebc5edaa15
+8dd51e4165a6f2c
+a6ed74ae5291d52
+e844361fb5c1ef6
+b51ac9e3fd1d3c7
+e73c87df19c6ad1
+8a6e99786fefbb5
+7df8fb62cc4eb6a
+575ea7fcc6bd2ad
+42751fdeec593b8
+f2194fc67689d12

@@ -1,0 +1,11 @@
+% hitori 51 by Otto Janko, http://www.janko.at/Raetsel/Hitori/051.a.htm
+hitori
+medium-
+7 7
+5326646
+4637152
+3647511
+6741523
+4471266
+7365314
+3511734

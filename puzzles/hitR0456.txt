@@ -1,0 +1,14 @@
+% hitori 456 by Otto Janko, http://www.janko.at/Raetsel/Hitori/456.a.htm
+hitori
+medium-
+10 10
+1a11535868
+7435a92166
+a161314482
+a778542923
+a641193879
+351486971a
+92a26183a7
+597949183a
+43161785a1
+23198a6274

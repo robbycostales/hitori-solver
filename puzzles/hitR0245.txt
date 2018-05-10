@@ -1,0 +1,14 @@
+% hitori 245 by Otto Janko, http://www.janko.at/Raetsel/Hitori/245.a.htm
+hitori
+medium-
+10 10
+4766339213
+3995a2a184
+4a47598563
+195482a6a2
+9414665728
+85a4277849
+74386a2359
+1344931856
+a279716739
+133148897a

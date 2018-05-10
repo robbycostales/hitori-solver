@@ -1,0 +1,14 @@
+% hitori 472 by Otto Janko, http://www.janko.at/Raetsel/Hitori/472.a.htm
+hitori
+medium-
+10 10
+3a595a3727
+86974a5261
+427341988a
+17aa83a472
+3738424199
+a7246a8393
+919a342566
+27864517a4
+3835712a66
+7512298632

@@ -1,0 +1,14 @@
+% hitori 613 by Otto Janko, http://www.janko.at/Raetsel/Hitori/613.a.htm
+hitori
+unknown
+10 10
+659a3917a6
+736827359a
+411a657364
+7847a35616
+5376953843
+6958685a64
+2634178957
+814749a73a
+a685161123
+9733576452

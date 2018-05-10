@@ -1,0 +1,14 @@
+% hitori 215 by Otto Janko, http://www.janko.at/Raetsel/Hitori/215.a.htm
+hitori
+medium-
+10 10
+88969224aa
+5699723231
+a349251736
+13a137a158
+3472561a39
+1255363847
+95531921aa
+8927a66914
+9a39143625
+5755824372

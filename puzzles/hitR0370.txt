@@ -1,0 +1,16 @@
+% hitori 370 by Otto Janko, http://www.janko.at/Raetsel/Hitori/370.a.htm
+hitori
+medium
+12 12
+23cb14ba9b7b
+c764ba14549b
+c96542a7a863
+451b22c13aa4
+72a158a6a934
+1753b78322ca
+648b57281a89
+bc123cb5b416
+99786b61c341
+a7b8c584b658
+616963448527
+b84aa6b271a5

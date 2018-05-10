@@ -1,0 +1,12 @@
+% hitori 79 by Toshio Karino, http://www.janko.at/Raetsel/Hitori/079.a.htm
+hitori
+easy+
+8 8
+35116527
+22664156
+47125633
+51832248
+63781465
+24328711
+47465322
+16567234

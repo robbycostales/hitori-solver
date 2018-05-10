@@ -1,0 +1,19 @@
+% hitori 477 by Otto Janko, http://www.janko.at/Raetsel/Hitori/477.a.htm
+hitori
+hard-
+15 15
+37ea7d13baf2c56
+c22fc5875d73aea
+1ebd24cd6caf7c3
+3dfec8758c64f6c
+2c6c3b91871dfba
+91b58d6bbe2a24f
+8accb6df23e9318
+7492fae647dc6a6
+f35b5cd68a4f92e
+9674de22fd9177c
+893feb47a635b1d
+2f5c7a29c1beb8b
+5fa9c1f1d28fe37
+ec2863ba74586f2
+853614ac7f7bcd2

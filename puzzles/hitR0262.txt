@@ -1,0 +1,12 @@
+% hitori 262 by Otto Janko, http://www.janko.at/Raetsel/Hitori/262.a.htm
+hitori
+medium-
+8 8
+52787361
+85758745
+21342658
+77433275
+68636126
+87165434
+43176872
+87627573

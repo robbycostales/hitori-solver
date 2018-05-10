@@ -1,0 +1,16 @@
+% hitori 485 by Otto Janko, http://www.janko.at/Raetsel/Hitori/485.a.htm
+hitori
+medium
+12 12
+c293b7146351
+2b4c92a81362
+5416131bc495
+4c1c697962ab
+911734c5bb82
+b76c2a9354c3
+a471656c9323
+a9a851b1ac7a
+9a52cb3826a7
+732971b6a4bb
+65ac36284b1c
+7b24a96b31b8

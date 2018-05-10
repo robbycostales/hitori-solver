@@ -1,0 +1,12 @@
+% hitori 190 by Otto Janko, http://www.janko.at/Raetsel/Hitori/190.a.htm
+hitori
+easy+
+8 8
+43661221
+81572342
+65736114
+28351477
+46167836
+36241567
+71628251
+84372675

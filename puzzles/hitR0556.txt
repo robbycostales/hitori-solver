@@ -1,0 +1,16 @@
+% hitori 556 by Otto Janko, http://www.janko.at/Raetsel/Hitori/556.a.htm
+hitori
+medium-
+12 12
+3962943bc7ac
+a855734a2649
+24978875aac2
+5c948676932a
+46896a238cc2
+2665cb2c4599
+751acb35a46b
+b57a95946881
+912c56a24b4c
+6b4b5c588413
+9b22a9a8c584
+a3c6a7919283

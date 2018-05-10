@@ -1,0 +1,11 @@
+% hitori 73 by Otto Janko, http://www.janko.at/Raetsel/Hitori/073.a.htm
+hitori
+easy
+7 7
+6222477
+1457436
+4735213
+4513167
+5117312
+2375644
+2644421

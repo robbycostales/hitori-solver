@@ -1,0 +1,16 @@
+% hitori 369 by Otto Janko, http://www.janko.at/Raetsel/Hitori/369.a.htm
+hitori
+medium
+12 12
+497278b8a3c8
+3821169b754a
+a97c84659111
+b1253bc69247
+5a9a386214c2
+3b792a74213c
+19a3526c8454
+645b1383b794
+4248ac59664b
+2c86b63a5471
+36744a17ac85
+c74761383ab4

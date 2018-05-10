@@ -1,0 +1,14 @@
+% hitori 581 by Otto Janko, http://www.janko.at/Raetsel/Hitori/581.a.htm
+hitori
+easy+
+10 10
+782279a1a9
+3a61357628
+a615248a41
+217a135a88
+5419a245a9
+592732481a
+22a47a9697
+75a51a2294
+375981a213
+a358241852

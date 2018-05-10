@@ -1,0 +1,12 @@
+% hitori, nikoli sample problem 3 by Momotereu
+hitori
+easy
+8 8
+74532826
+45618132
+16484273
+35721465
+18223574
+52226641
+61353788
+13547688

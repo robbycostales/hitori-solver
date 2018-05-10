@@ -1,0 +1,12 @@
+% hitori 67 by Otto Janko, http://www.janko.at/Raetsel/Hitori/067.a.htm
+hitori
+easy+
+8 8
+75728863
+36517784
+73845526
+56216837
+82881631
+86351254
+46674313
+14762158
